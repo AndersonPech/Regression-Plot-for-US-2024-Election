@@ -1,0 +1,1718 @@
+,poll_id,pollster,end_date,candidate_id,candidate_name,pct
+0,86615,Morning Consult,4/7/24,19368,Joe Biden,43.0
+1,86615,Morning Consult,4/7/24,16651,Donald Trump,44.0
+2,86616,Morning Consult,4/6/24,19368,Joe Biden,43.0
+3,86616,Morning Consult,4/6/24,16651,Donald Trump,44.0
+4,86612,TIPP,4/5/24,19368,Joe Biden,43.0
+5,86612,TIPP,4/5/24,16651,Donald Trump,40.0
+6,86612,TIPP,4/5/24,19368,Joe Biden,38.0
+7,86612,TIPP,4/5/24,16651,Donald Trump,38.0
+8,86612,TIPP,4/5/24,31042,Robert F. Kennedy,11.0
+9,86612,TIPP,4/5/24,31097,Cornel West,2.0
+10,86612,TIPP,4/5/24,31116,Jill Stein,1.0
+11,86617,Morning Consult,4/5/24,19368,Joe Biden,42.0
+12,86617,Morning Consult,4/5/24,16651,Donald Trump,43.0
+13,86618,Morning Consult,4/4/24,19368,Joe Biden,43.0
+14,86618,Morning Consult,4/4/24,16651,Donald Trump,43.0
+15,86602,Emerson,4/3/24,19368,Joe Biden,49.4
+16,86602,Emerson,4/3/24,16651,Donald Trump,50.6
+17,86602,Emerson,4/3/24,19368,Joe Biden,42.0
+18,86602,Emerson,4/3/24,16651,Donald Trump,43.2
+19,86602,Emerson,4/3/24,31042,Robert F. Kennedy,7.8
+20,86602,Emerson,4/3/24,31097,Cornel West,0.7
+21,86602,Emerson,4/3/24,31116,Jill Stein,0.5
+22,86619,Morning Consult,4/3/24,19368,Joe Biden,42.0
+23,86619,Morning Consult,4/3/24,16651,Donald Trump,43.0
+24,86620,Morning Consult,4/2/24,19368,Joe Biden,43.0
+25,86620,Morning Consult,4/2/24,16651,Donald Trump,43.0
+26,86592,YouGov,4/2/24,19368,Joe Biden,43.0
+27,86592,YouGov,4/2/24,16651,Donald Trump,43.0
+28,86592,YouGov,4/2/24,31042,Robert F. Kennedy,2.0
+29,86592,YouGov,4/2/24,31097,Cornel West,1.0
+30,86592,YouGov,4/2/24,31116,Jill Stein,0.0
+31,86621,Morning Consult,4/1/24,19368,Joe Biden,42.0
+32,86621,Morning Consult,4/1/24,16651,Donald Trump,43.0
+33,86572,Trafalgar Group,3/31/24,19368,Joe Biden,39.8
+34,86572,Trafalgar Group,3/31/24,16651,Donald Trump,43.1
+35,86572,Trafalgar Group,3/31/24,31042,Robert F. Kennedy,11.4
+36,86572,Trafalgar Group,3/31/24,31116,Jill Stein,0.8
+37,86572,Trafalgar Group,3/31/24,31097,Cornel West,1.7
+38,86574,Morning Consult,3/31/24,19368,Joe Biden,44.0
+39,86574,Morning Consult,3/31/24,16651,Donald Trump,42.0
+40,86581,Big Village,3/31/24,19368,Joe Biden,33.5
+41,86581,Big Village,3/31/24,16651,Donald Trump,34.9
+42,86581,Big Village,3/31/24,31042,Robert F. Kennedy,8.4
+43,86581,Big Village,3/31/24,31097,Cornel West,2.4
+44,86581,Big Village,3/31/24,19368,Joe Biden,38.8
+45,86581,Big Village,3/31/24,16651,Donald Trump,37.8
+46,86581,Big Village,3/31/24,31042,Robert F. Kennedy,8.2
+47,86581,Big Village,3/31/24,31097,Cornel West,1.9
+48,86581,Big Village,3/31/24,19368,Joe Biden,41.9
+49,86581,Big Village,3/31/24,16651,Donald Trump,39.7
+50,86581,Big Village,3/31/24,31042,Robert F. Kennedy,7.8
+51,86581,Big Village,3/31/24,31097,Cornel West,1.8
+52,86577,RABA Research,3/31/24,19368,Joe Biden,36.0
+53,86577,RABA Research,3/31/24,16651,Donald Trump,39.0
+54,86604,Franklin and Marshall College,3/31/24,19368,Joe Biden,48.0
+55,86604,Franklin and Marshall College,3/31/24,16651,Donald Trump,38.0
+56,86604,Franklin and Marshall College,3/31/24,19368,Joe Biden,42.0
+57,86604,Franklin and Marshall College,3/31/24,16651,Donald Trump,40.0
+58,86604,Franklin and Marshall College,3/31/24,31116,Jill Stein,3.0
+59,86604,Franklin and Marshall College,3/31/24,31042,Robert F. Kennedy,9.0
+60,86593,Morning Consult,3/30/24,19368,Joe Biden,44.0
+61,86593,Morning Consult,3/30/24,16651,Donald Trump,43.0
+62,86590,Data for Progress,3/29/24,19368,Joe Biden,47.0
+63,86590,Data for Progress,3/29/24,16651,Donald Trump,46.0
+64,86590,Data for Progress,3/29/24,19368,Joe Biden,41.0
+65,86590,Data for Progress,3/29/24,16651,Donald Trump,42.0
+66,86590,Data for Progress,3/29/24,31042,Robert F. Kennedy,8.0
+67,86590,Data for Progress,3/29/24,31097,Cornel West,1.0
+68,86590,Data for Progress,3/29/24,31790,Chase Oliver,1.0
+69,86590,Data for Progress,3/29/24,31116,Jill Stein,1.0
+70,86594,Morning Consult,3/29/24,19368,Joe Biden,43.0
+71,86594,Morning Consult,3/29/24,16651,Donald Trump,44.0
+72,86576,Emerson,3/29/24,19368,Joe Biden,45.7
+73,86576,Emerson,3/29/24,16651,Donald Trump,39.4
+74,86576,Emerson,3/29/24,19368,Joe Biden,41.0
+75,86576,Emerson,3/29/24,16651,Donald Trump,35.8
+76,86576,Emerson,3/29/24,31042,Robert F. Kennedy,7.5
+77,86576,Emerson,3/29/24,31097,Cornel West,1.2
+78,86576,Emerson,3/29/24,31116,Jill Stein,0.8
+79,86598,Morning Consult,3/28/24,19368,Joe Biden,43.0
+80,86598,Morning Consult,3/28/24,16651,Donald Trump,44.0
+81,86589,Marist,3/28/24,19368,Joe Biden,50.0
+82,86589,Marist,3/28/24,16651,Donald Trump,48.0
+83,86589,Marist,3/28/24,19368,Joe Biden,43.0
+84,86589,Marist,3/28/24,16651,Donald Trump,41.0
+85,86589,Marist,3/28/24,31042,Robert F. Kennedy,11.0
+86,86589,Marist,3/28/24,31097,Cornel West,1.0
+87,86589,Marist,3/28/24,31116,Jill Stein,2.0
+88,86603,Spry Strategies,3/28/24,19368,Joe Biden,43.7
+89,86603,Spry Strategies,3/28/24,16651,Donald Trump,48.0
+90,86603,Spry Strategies,3/28/24,19368,Joe Biden,39.8
+91,86603,Spry Strategies,3/28/24,16651,Donald Trump,43.0
+92,86603,Spry Strategies,3/28/24,31042,Robert F. Kennedy,8.8
+93,86622,UpOne Insights/Benenson Strategy Group,3/28/24,19368,Joe Biden,44.0
+94,86622,UpOne Insights/Benenson Strategy Group,3/28/24,16651,Donald Trump,46.0
+95,86591,Marquette Law School,3/28/24,19368,Joe Biden,50.0
+96,86591,Marquette Law School,3/28/24,16651,Donald Trump,50.0
+97,86591,Marquette Law School,3/28/24,19368,Joe Biden,52.0
+98,86591,Marquette Law School,3/28/24,16651,Donald Trump,48.0
+99,86591,Marquette Law School,3/28/24,19368,Joe Biden,38.0
+100,86591,Marquette Law School,3/28/24,16651,Donald Trump,41.0
+101,86591,Marquette Law School,3/28/24,31042,Robert F. Kennedy,14.0
+102,86591,Marquette Law School,3/28/24,31097,Cornel West,5.0
+103,86591,Marquette Law School,3/28/24,31116,Jill Stein,2.0
+104,86591,Marquette Law School,3/28/24,19368,Joe Biden,41.0
+105,86591,Marquette Law School,3/28/24,16651,Donald Trump,41.0
+106,86591,Marquette Law School,3/28/24,31042,Robert F. Kennedy,13.0
+107,86591,Marquette Law School,3/28/24,31097,Cornel West,4.0
+108,86591,Marquette Law School,3/28/24,31116,Jill Stein,2.0
+109,86597,Morning Consult,3/27/24,19368,Joe Biden,43.0
+110,86597,Morning Consult,3/27/24,16651,Donald Trump,44.0
+111,86580,Clarity,3/27/24,19368,Joe Biden,46.0
+112,86580,Clarity,3/27/24,16651,Donald Trump,50.0
+113,86558,YouGov,3/26/24,19368,Joe Biden,43.0
+114,86558,YouGov,3/26/24,16651,Donald Trump,44.0
+115,86558,YouGov,3/26/24,31042,Robert F. Kennedy,3.0
+116,86558,YouGov,3/26/24,31097,Cornel West,0.0
+117,86558,YouGov,3/26/24,31116,Jill Stein,1.0
+118,86595,Morning Consult,3/26/24,19368,Joe Biden,44.0
+119,86595,Morning Consult,3/26/24,16651,Donald Trump,44.0
+120,86607,McLaughlin,3/26/24,19368,Joe Biden,44.9
+121,86607,McLaughlin,3/26/24,16651,Donald Trump,46.5
+122,86607,McLaughlin,3/26/24,19368,Joe Biden,37.4
+123,86607,McLaughlin,3/26/24,16651,Donald Trump,39.5
+124,86607,McLaughlin,3/26/24,31042,Robert F. Kennedy,9.8
+125,86607,McLaughlin,3/26/24,31097,Cornel West,1.5
+126,86607,McLaughlin,3/26/24,31116,Jill Stein,1.7
+127,86607,McLaughlin,3/26/24,31061,Lars Mapstead,0.8
+128,86607,McLaughlin,3/26/24,19368,Joe Biden,48.3
+129,86607,McLaughlin,3/26/24,16651,Donald Trump,45.4
+130,86607,McLaughlin,3/26/24,19368,Joe Biden,38.9
+131,86607,McLaughlin,3/26/24,16651,Donald Trump,42.2
+132,86607,McLaughlin,3/26/24,31042,Robert F. Kennedy,8.9
+133,86607,McLaughlin,3/26/24,31097,Cornel West,1.4
+134,86607,McLaughlin,3/26/24,31116,Jill Stein,1.6
+135,86607,McLaughlin,3/26/24,31061,Lars Mapstead,0.8
+136,86624,Bullfinch,3/26/24,19368,Joe Biden,44.0
+137,86624,Bullfinch,3/26/24,16651,Donald Trump,41.0
+138,86624,Bullfinch,3/26/24,31042,Robert F. Kennedy,7.0
+139,86562,HarrisX,3/25/24,19368,Joe Biden,50.0
+140,86562,HarrisX,3/25/24,16651,Donald Trump,50.0
+141,86562,HarrisX,3/25/24,19368,Joe Biden,40.0
+142,86562,HarrisX,3/25/24,16651,Donald Trump,42.0
+143,86562,HarrisX,3/25/24,31042,Robert F. Kennedy,14.0
+144,86562,HarrisX,3/25/24,31116,Jill Stein,2.0
+145,86562,HarrisX,3/25/24,31097,Cornel West,2.0
+146,86565,Leger,3/25/24,19368,Joe Biden,43.0
+147,86565,Leger,3/25/24,16651,Donald Trump,47.0
+148,86565,Leger,3/25/24,19368,Joe Biden,37.0
+149,86565,Leger,3/25/24,16651,Donald Trump,41.0
+150,86596,Morning Consult,3/25/24,19368,Joe Biden,44.0
+151,86596,Morning Consult,3/25/24,16651,Donald Trump,43.0
+152,86560,Beacon/Shaw,3/25/24,19368,Joe Biden,38.0
+153,86560,Beacon/Shaw,3/25/24,16651,Donald Trump,43.0
+154,86560,Beacon/Shaw,3/25/24,31042,Robert F. Kennedy,12.0
+155,86560,Beacon/Shaw,3/25/24,31097,Cornel West,2.0
+156,86560,Beacon/Shaw,3/25/24,31116,Jill Stein,2.0
+157,86560,Beacon/Shaw,3/25/24,19368,Joe Biden,45.0
+158,86560,Beacon/Shaw,3/25/24,16651,Donald Trump,50.0
+159,86560,Beacon/Shaw,3/25/24,16661,Kamala Harris,45.0
+160,86560,Beacon/Shaw,3/25/24,16651,Donald Trump,51.0
+161,86559,Quinnipiac,3/25/24,19368,Joe Biden,48.0
+162,86559,Quinnipiac,3/25/24,16651,Donald Trump,45.0
+163,86559,Quinnipiac,3/25/24,19368,Joe Biden,38.0
+164,86559,Quinnipiac,3/25/24,16651,Donald Trump,39.0
+165,86559,Quinnipiac,3/25/24,31042,Robert F. Kennedy,13.0
+166,86559,Quinnipiac,3/25/24,31097,Cornel West,3.0
+167,86559,Quinnipiac,3/25/24,31116,Jill Stein,4.0
+168,86535,Morning Consult,3/24/24,19368,Joe Biden,44.0
+169,86535,Morning Consult,3/24/24,16651,Donald Trump,43.0
+170,86561,J.L. Partners,3/24/24,19368,Joe Biden,39.0
+171,86561,J.L. Partners,3/24/24,16651,Donald Trump,43.0
+172,86561,J.L. Partners,3/24/24,31042,Robert F. Kennedy,7.0
+173,86561,J.L. Partners,3/24/24,31116,Jill Stein,1.0
+174,86561,J.L. Partners,3/24/24,31097,Cornel West,2.0
+175,86561,J.L. Partners,3/24/24,19368,Joe Biden,43.0
+176,86561,J.L. Partners,3/24/24,16651,Donald Trump,46.0
+177,86561,J.L. Partners,3/24/24,16660,Michelle Obama,44.0
+178,86561,J.L. Partners,3/24/24,16651,Donald Trump,47.0
+179,86582,Fabrizio/GBAO,3/24/24,19368,Joe Biden,34.0
+180,86582,Fabrizio/GBAO,3/24/24,16651,Donald Trump,39.0
+181,86582,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,11.0
+182,86582,Fabrizio/GBAO,3/24/24,31097,Cornel West,2.0
+183,86582,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,1.0
+184,86582,Fabrizio/GBAO,3/24/24,31116,Jill Stein,1.0
+185,86582,Fabrizio/GBAO,3/24/24,19368,Joe Biden,37.0
+186,86582,Fabrizio/GBAO,3/24/24,16651,Donald Trump,43.0
+187,86582,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,3.0
+188,86582,Fabrizio/GBAO,3/24/24,31116,Jill Stein,5.0
+189,86582,Fabrizio/GBAO,3/24/24,19368,Joe Biden,42.0
+190,86582,Fabrizio/GBAO,3/24/24,16651,Donald Trump,47.0
+191,86583,Fabrizio/GBAO,3/24/24,19368,Joe Biden,35.0
+192,86583,Fabrizio/GBAO,3/24/24,16651,Donald Trump,38.0
+193,86583,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,8.0
+194,86583,Fabrizio/GBAO,3/24/24,31097,Cornel West,2.0
+195,86583,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+196,86583,Fabrizio/GBAO,3/24/24,31116,Jill Stein,1.0
+197,86583,Fabrizio/GBAO,3/24/24,19368,Joe Biden,38.0
+198,86583,Fabrizio/GBAO,3/24/24,16651,Donald Trump,42.0
+199,86583,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,4.0
+200,86583,Fabrizio/GBAO,3/24/24,31116,Jill Stein,2.0
+201,86583,Fabrizio/GBAO,3/24/24,19368,Joe Biden,43.0
+202,86583,Fabrizio/GBAO,3/24/24,16651,Donald Trump,44.0
+203,86584,Fabrizio/GBAO,3/24/24,19368,Joe Biden,37.0
+204,86584,Fabrizio/GBAO,3/24/24,16651,Donald Trump,39.0
+205,86584,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,12.0
+206,86584,Fabrizio/GBAO,3/24/24,31097,Cornel West,2.0
+207,86584,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,1.0
+208,86584,Fabrizio/GBAO,3/24/24,31116,Jill Stein,2.0
+209,86584,Fabrizio/GBAO,3/24/24,19368,Joe Biden,40.0
+210,86584,Fabrizio/GBAO,3/24/24,16651,Donald Trump,45.0
+211,86584,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+212,86584,Fabrizio/GBAO,3/24/24,31116,Jill Stein,3.0
+213,86584,Fabrizio/GBAO,3/24/24,19368,Joe Biden,45.0
+214,86584,Fabrizio/GBAO,3/24/24,16651,Donald Trump,48.0
+215,86585,Fabrizio/GBAO,3/24/24,19368,Joe Biden,34.0
+216,86585,Fabrizio/GBAO,3/24/24,16651,Donald Trump,42.0
+217,86585,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,10.0
+218,86585,Fabrizio/GBAO,3/24/24,31097,Cornel West,2.0
+219,86585,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,1.0
+220,86585,Fabrizio/GBAO,3/24/24,31116,Jill Stein,1.0
+221,86585,Fabrizio/GBAO,3/24/24,19368,Joe Biden,38.0
+222,86585,Fabrizio/GBAO,3/24/24,16651,Donald Trump,45.0
+223,86585,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+224,86585,Fabrizio/GBAO,3/24/24,31116,Jill Stein,3.0
+225,86585,Fabrizio/GBAO,3/24/24,19368,Joe Biden,43.0
+226,86585,Fabrizio/GBAO,3/24/24,16651,Donald Trump,49.0
+227,86586,Fabrizio/GBAO,3/24/24,19368,Joe Biden,33.0
+228,86586,Fabrizio/GBAO,3/24/24,16651,Donald Trump,37.0
+229,86586,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,15.0
+230,86586,Fabrizio/GBAO,3/24/24,31097,Cornel West,2.0
+231,86586,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+232,86586,Fabrizio/GBAO,3/24/24,31116,Jill Stein,2.0
+233,86586,Fabrizio/GBAO,3/24/24,19368,Joe Biden,38.0
+234,86586,Fabrizio/GBAO,3/24/24,16651,Donald Trump,42.0
+235,86586,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,3.0
+236,86586,Fabrizio/GBAO,3/24/24,31116,Jill Stein,5.0
+237,86586,Fabrizio/GBAO,3/24/24,19368,Joe Biden,44.0
+238,86586,Fabrizio/GBAO,3/24/24,16651,Donald Trump,48.0
+239,86587,Fabrizio/GBAO,3/24/24,19368,Joe Biden,38.0
+240,86587,Fabrizio/GBAO,3/24/24,16651,Donald Trump,41.0
+241,86587,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,7.0
+242,86587,Fabrizio/GBAO,3/24/24,31097,Cornel West,3.0
+243,86587,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,1.0
+244,86587,Fabrizio/GBAO,3/24/24,31116,Jill Stein,1.0
+245,86587,Fabrizio/GBAO,3/24/24,19368,Joe Biden,40.0
+246,86587,Fabrizio/GBAO,3/24/24,16651,Donald Trump,44.0
+247,86587,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+248,86587,Fabrizio/GBAO,3/24/24,31116,Jill Stein,4.0
+249,86587,Fabrizio/GBAO,3/24/24,19368,Joe Biden,44.0
+250,86587,Fabrizio/GBAO,3/24/24,16651,Donald Trump,47.0
+251,86588,Fabrizio/GBAO,3/24/24,19368,Joe Biden,41.0
+252,86588,Fabrizio/GBAO,3/24/24,16651,Donald Trump,38.0
+253,86588,Fabrizio/GBAO,3/24/24,31042,Robert F. Kennedy,10.0
+254,86588,Fabrizio/GBAO,3/24/24,31097,Cornel West,1.0
+255,86588,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,1.0
+256,86588,Fabrizio/GBAO,3/24/24,31116,Jill Stein,1.0
+257,86588,Fabrizio/GBAO,3/24/24,19368,Joe Biden,43.0
+258,86588,Fabrizio/GBAO,3/24/24,16651,Donald Trump,42.0
+259,86588,Fabrizio/GBAO,3/24/24,31061,Lars Mapstead,2.0
+260,86588,Fabrizio/GBAO,3/24/24,31116,Jill Stein,2.0
+261,86588,Fabrizio/GBAO,3/24/24,19368,Joe Biden,46.0
+262,86588,Fabrizio/GBAO,3/24/24,16651,Donald Trump,46.0
+263,86536,Morning Consult,3/23/24,19368,Joe Biden,44.0
+264,86536,Morning Consult,3/23/24,16651,Donald Trump,43.0
+265,86537,Morning Consult,3/22/24,19368,Joe Biden,44.0
+266,86537,Morning Consult,3/22/24,16651,Donald Trump,43.0
+267,86522,ActiVote,3/22/24,19368,Joe Biden,47.3
+268,86522,ActiVote,3/22/24,16651,Donald Trump,52.7
+269,86527,HarrisX/Harris Poll,3/21/24,19368,Joe Biden,49.0
+270,86527,HarrisX/Harris Poll,3/21/24,16651,Donald Trump,51.0
+271,86527,HarrisX/Harris Poll,3/21/24,19368,Joe Biden,39.0
+272,86527,HarrisX/Harris Poll,3/21/24,16651,Donald Trump,43.0
+273,86527,HarrisX/Harris Poll,3/21/24,31042,Robert F. Kennedy,17.0
+274,86527,HarrisX/Harris Poll,3/21/24,19368,Joe Biden,38.0
+275,86527,HarrisX/Harris Poll,3/21/24,16651,Donald Trump,43.0
+276,86527,HarrisX/Harris Poll,3/21/24,31042,Robert F. Kennedy,15.0
+277,86527,HarrisX/Harris Poll,3/21/24,31116,Jill Stein,2.0
+278,86527,HarrisX/Harris Poll,3/21/24,31097,Cornel West,2.0
+279,86538,Morning Consult,3/21/24,19368,Joe Biden,43.0
+280,86538,Morning Consult,3/21/24,16651,Donald Trump,42.0
+281,86542,Echelon Insights,3/21/24,19368,Joe Biden,47.0
+282,86542,Echelon Insights,3/21/24,16651,Donald Trump,49.0
+283,86542,Echelon Insights,3/21/24,19368,Joe Biden,40.0
+284,86542,Echelon Insights,3/21/24,16651,Donald Trump,43.0
+285,86542,Echelon Insights,3/21/24,31042,Robert F. Kennedy,10.0
+286,86542,Echelon Insights,3/21/24,31116,Jill Stein,2.0
+287,86542,Echelon Insights,3/21/24,31097,Cornel West,1.0
+288,86544,Marist,3/21/24,19368,Joe Biden,44.0
+289,86544,Marist,3/21/24,16651,Donald Trump,55.0
+290,86544,Marist,3/21/24,19368,Joe Biden,36.0
+291,86544,Marist,3/21/24,16651,Donald Trump,48.0
+292,86544,Marist,3/21/24,31042,Robert F. Kennedy,15.0
+293,86605,Echelon Insights,3/21/24,19368,Joe Biden,48.0
+294,86605,Echelon Insights,3/21/24,16651,Donald Trump,37.0
+295,86539,Morning Consult,3/20/24,19368,Joe Biden,43.0
+296,86539,Morning Consult,3/20/24,16651,Donald Trump,43.0
+297,86540,Morning Consult,3/19/24,19368,Joe Biden,42.0
+298,86540,Morning Consult,3/19/24,16651,Donald Trump,44.0
+299,86498,YouGov,3/19/24,19368,Joe Biden,44.0
+300,86498,YouGov,3/19/24,16651,Donald Trump,43.0
+301,86498,YouGov,3/19/24,31042,Robert F. Kennedy,2.0
+302,86498,YouGov,3/19/24,31097,Cornel West,1.0
+303,86498,YouGov,3/19/24,31116,Jill Stein,0.0
+304,86552,Hart/POS,3/19/24,19368,Joe Biden,45.0
+305,86552,Hart/POS,3/19/24,16651,Donald Trump,46.0
+306,86601,New Bridge Strategy/Aspect Strategic,3/19/24,19368,Joe Biden,49.0
+307,86601,New Bridge Strategy/Aspect Strategic,3/19/24,16651,Donald Trump,39.0
+308,86541,Morning Consult,3/18/24,19368,Joe Biden,43.0
+309,86541,Morning Consult,3/18/24,16651,Donald Trump,44.0
+310,86502,Emerson,3/18/24,19368,Joe Biden,49.7
+311,86502,Emerson,3/18/24,16651,Donald Trump,50.3
+312,86502,Emerson,3/18/24,19368,Joe Biden,40.6
+313,86502,Emerson,3/18/24,16651,Donald Trump,43.2
+314,86502,Emerson,3/18/24,31042,Robert F. Kennedy,4.6
+315,86502,Emerson,3/18/24,31097,Cornel West,0.6
+316,86502,Emerson,3/18/24,31116,Jill Stein,1.0
+317,86502,Emerson,3/18/24,28588,Gretchen Whitmer,49.5
+318,86502,Emerson,3/18/24,16651,Donald Trump,44.6
+319,86503,Emerson,3/18/24,19368,Joe Biden,48.2
+320,86503,Emerson,3/18/24,16651,Donald Trump,51.8
+321,86503,Emerson,3/18/24,19368,Joe Biden,39.6
+322,86503,Emerson,3/18/24,16651,Donald Trump,43.4
+323,86503,Emerson,3/18/24,31042,Robert F. Kennedy,5.9
+324,86503,Emerson,3/18/24,31097,Cornel West,0.6
+325,86503,Emerson,3/18/24,31116,Jill Stein,1.0
+326,86509,SSRS,3/18/24,19368,Joe Biden,42.0
+327,86509,SSRS,3/18/24,16651,Donald Trump,50.0
+328,86509,SSRS,3/18/24,19368,Joe Biden,34.0
+329,86509,SSRS,3/18/24,16651,Donald Trump,40.0
+330,86509,SSRS,3/18/24,31042,Robert F. Kennedy,18.0
+331,86509,SSRS,3/18/24,31097,Cornel West,4.0
+332,86510,SSRS,3/18/24,19368,Joe Biden,46.0
+333,86510,SSRS,3/18/24,16651,Donald Trump,46.0
+334,86510,SSRS,3/18/24,19368,Joe Biden,38.0
+335,86510,SSRS,3/18/24,16651,Donald Trump,40.0
+336,86510,SSRS,3/18/24,31042,Robert F. Kennedy,16.0
+337,86510,SSRS,3/18/24,31097,Cornel West,4.0
+338,86482,Morning Consult,3/17/24,19368,Joe Biden,43.0
+339,86482,Morning Consult,3/17/24,16651,Donald Trump,43.0
+340,86491,Florida Atlantic University/Mainstreet Research,3/17/24,19368,Joe Biden,44.4
+341,86491,Florida Atlantic University/Mainstreet Research,3/17/24,16651,Donald Trump,44.1
+342,86491,Florida Atlantic University/Mainstreet Research,3/17/24,19368,Joe Biden,47.1
+343,86491,Florida Atlantic University/Mainstreet Research,3/17/24,16651,Donald Trump,44.6
+344,86492,North Star Opinion Research,3/17/24,19368,Joe Biden,42.0
+345,86492,North Star Opinion Research,3/17/24,16651,Donald Trump,46.0
+346,86492,North Star Opinion Research,3/17/24,19368,Joe Biden,33.0
+347,86492,North Star Opinion Research,3/17/24,16651,Donald Trump,37.0
+348,86492,North Star Opinion Research,3/17/24,31042,Robert F. Kennedy,18.0
+349,86492,North Star Opinion Research,3/17/24,31097,Cornel West,2.0
+350,86528,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,41.0
+351,86528,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,44.0
+352,86528,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,7.0
+353,86528,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,0.0
+354,86529,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,39.0
+355,86529,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,46.0
+356,86529,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,7.0
+357,86529,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,0.0
+358,86530,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,41.0
+359,86530,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,44.0
+360,86530,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,6.0
+361,86530,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,0.0
+362,86531,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,39.0
+363,86531,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,41.0
+364,86531,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,6.0
+365,86531,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,0.0
+366,86532,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,39.0
+367,86532,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,43.0
+368,86532,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,8.0
+369,86532,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,1.0
+370,86533,Redfield & Wilton Strategies,3/17/24,19368,Joe Biden,41.0
+371,86533,Redfield & Wilton Strategies,3/17/24,16651,Donald Trump,44.0
+372,86533,Redfield & Wilton Strategies,3/17/24,31042,Robert F. Kennedy,7.0
+373,86533,Redfield & Wilton Strategies,3/17/24,31116,Jill Stein,1.0
+374,86493,Selzer,3/17/24,19368,Joe Biden,38.0
+375,86493,Selzer,3/17/24,16651,Donald Trump,45.0
+376,86511,Mitchell,3/16/24,19368,Joe Biden,44.0
+377,86511,Mitchell,3/16/24,16651,Donald Trump,47.0
+378,86511,Mitchell,3/16/24,19368,Joe Biden,42.0
+379,86511,Mitchell,3/16/24,16651,Donald Trump,44.0
+380,86511,Mitchell,3/16/24,31042,Robert F. Kennedy,6.0
+381,86511,Mitchell,3/16/24,31116,Jill Stein,1.0
+382,86511,Mitchell,3/16/24,31097,Cornel West,1.0
+383,86483,Morning Consult,3/16/24,19368,Joe Biden,43.0
+384,86483,Morning Consult,3/16/24,16651,Donald Trump,43.0
+385,86521,Redfield & Wilton Strategies,3/15/24,19368,Joe Biden,41.0
+386,86521,Redfield & Wilton Strategies,3/15/24,16651,Donald Trump,45.0
+387,86521,Redfield & Wilton Strategies,3/15/24,19368,Joe Biden,40.0
+388,86521,Redfield & Wilton Strategies,3/15/24,16651,Donald Trump,44.0
+389,86521,Redfield & Wilton Strategies,3/15/24,31042,Robert F. Kennedy,7.0
+390,86484,Morning Consult,3/15/24,19368,Joe Biden,43.0
+391,86484,Morning Consult,3/15/24,16651,Donald Trump,43.0
+392,86496,Emerson,3/15/24,19368,Joe Biden,47.7
+393,86496,Emerson,3/15/24,16651,Donald Trump,52.3
+394,86496,Emerson,3/15/24,19368,Joe Biden,37.9
+395,86496,Emerson,3/15/24,16651,Donald Trump,45.8
+396,86496,Emerson,3/15/24,31042,Robert F. Kennedy,6.5
+397,86496,Emerson,3/15/24,31097,Cornel West,0.9
+398,86496,Emerson,3/15/24,31116,Jill Stein,1.6
+399,86497,Emerson,3/15/24,19368,Joe Biden,48.7
+400,86497,Emerson,3/15/24,16651,Donald Trump,51.3
+401,86497,Emerson,3/15/24,19368,Joe Biden,36.0
+402,86497,Emerson,3/15/24,16651,Donald Trump,41.0
+403,86497,Emerson,3/15/24,31042,Robert F. Kennedy,8.8
+404,86497,Emerson,3/15/24,31097,Cornel West,2.0
+405,86497,Emerson,3/15/24,31116,Jill Stein,1.1
+406,86500,Noble Predictive Insights,3/15/24,19368,Joe Biden,45.0
+407,86500,Noble Predictive Insights,3/15/24,16651,Donald Trump,46.0
+408,86500,Noble Predictive Insights,3/15/24,19368,Joe Biden,40.0
+409,86500,Noble Predictive Insights,3/15/24,16651,Donald Trump,43.0
+410,86500,Noble Predictive Insights,3/15/24,31042,Robert F. Kennedy,7.0
+411,86500,Noble Predictive Insights,3/15/24,31097,Cornel West,1.0
+412,86500,Noble Predictive Insights,3/15/24,31116,Jill Stein,1.0
+413,86500,Noble Predictive Insights,3/15/24,19368,Joe Biden,44.0
+414,86500,Noble Predictive Insights,3/15/24,16651,Donald Trump,43.0
+415,86500,Noble Predictive Insights,3/15/24,19368,Joe Biden,38.0
+416,86500,Noble Predictive Insights,3/15/24,16651,Donald Trump,41.0
+417,86500,Noble Predictive Insights,3/15/24,31042,Robert F. Kennedy,8.0
+418,86500,Noble Predictive Insights,3/15/24,31097,Cornel West,1.0
+419,86500,Noble Predictive Insights,3/15/24,31116,Jill Stein,1.0
+420,86548,Morning Consult,3/15/24,19368,Joe Biden,36.0
+421,86548,Morning Consult,3/15/24,16651,Donald Trump,42.0
+422,86548,Morning Consult,3/15/24,31042,Robert F. Kennedy,11.0
+423,86548,Morning Consult,3/15/24,31097,Cornel West,1.0
+424,86548,Morning Consult,3/15/24,31116,Jill Stein,1.0
+425,86548,Morning Consult,3/15/24,19368,Joe Biden,44.0
+426,86548,Morning Consult,3/15/24,16651,Donald Trump,46.0
+427,86485,Morning Consult,3/14/24,19368,Joe Biden,43.0
+428,86485,Morning Consult,3/14/24,16651,Donald Trump,43.0
+429,86494,Marist,3/14/24,19368,Joe Biden,47.0
+430,86494,Marist,3/14/24,16651,Donald Trump,51.0
+431,86494,Marist,3/14/24,19368,Joe Biden,40.0
+432,86494,Marist,3/14/24,16651,Donald Trump,45.0
+433,86494,Marist,3/14/24,31042,Robert F. Kennedy,14.0
+434,86495,Marist,3/14/24,19368,Joe Biden,48.0
+435,86495,Marist,3/14/24,16651,Donald Trump,51.0
+436,86495,Marist,3/14/24,19368,Joe Biden,43.0
+437,86495,Marist,3/14/24,16651,Donald Trump,46.0
+438,86495,Marist,3/14/24,31042,Robert F. Kennedy,11.0
+439,86481,McLaughlin,3/14/24,19368,Joe Biden,43.0
+440,86481,McLaughlin,3/14/24,16651,Donald Trump,49.0
+441,86481,McLaughlin,3/14/24,16661,Kamala Harris,41.0
+442,86481,McLaughlin,3/14/24,16651,Donald Trump,50.0
+443,86481,McLaughlin,3/14/24,19368,Joe Biden,34.0
+444,86481,McLaughlin,3/14/24,16651,Donald Trump,38.0
+445,86481,McLaughlin,3/14/24,31042,Robert F. Kennedy,12.0
+446,86481,McLaughlin,3/14/24,31097,Cornel West,2.0
+447,86481,McLaughlin,3/14/24,31018,"Joe Manchin, III",2.0
+448,86481,McLaughlin,3/14/24,31116,Jill Stein,2.0
+449,86545,Morning Consult,3/14/24,19368,Joe Biden,37.0
+450,86545,Morning Consult,3/14/24,16651,Donald Trump,43.0
+451,86545,Morning Consult,3/14/24,31042,Robert F. Kennedy,12.0
+452,86545,Morning Consult,3/14/24,31097,Cornel West,2.0
+453,86545,Morning Consult,3/14/24,31116,Jill Stein,1.0
+454,86545,Morning Consult,3/14/24,19368,Joe Biden,43.0
+455,86545,Morning Consult,3/14/24,16651,Donald Trump,48.0
+456,86551,Morning Consult,3/14/24,19368,Joe Biden,39.0
+457,86551,Morning Consult,3/14/24,16651,Donald Trump,41.0
+458,86551,Morning Consult,3/14/24,31042,Robert F. Kennedy,10.0
+459,86551,Morning Consult,3/14/24,31097,Cornel West,1.0
+460,86551,Morning Consult,3/14/24,31116,Jill Stein,1.0
+461,86551,Morning Consult,3/14/24,19368,Joe Biden,46.0
+462,86551,Morning Consult,3/14/24,16651,Donald Trump,45.0
+463,86478,Florida Atlantic University/Mainstreet Research,3/13/24,19368,Joe Biden,39.5
+464,86478,Florida Atlantic University/Mainstreet Research,3/13/24,16651,Donald Trump,50.4
+465,86478,Florida Atlantic University/Mainstreet Research,3/13/24,19368,Joe Biden,40.4
+466,86478,Florida Atlantic University/Mainstreet Research,3/13/24,16651,Donald Trump,51.0
+467,86479,PPP,3/13/24,19368,Joe Biden,46.0
+468,86479,PPP,3/13/24,16651,Donald Trump,45.0
+469,86477,St. Pete Polls,3/13/24,19368,Joe Biden,41.7
+470,86477,St. Pete Polls,3/13/24,16651,Donald Trump,47.5
+471,86486,Morning Consult,3/13/24,19368,Joe Biden,44.0
+472,86486,Morning Consult,3/13/24,16651,Donald Trump,42.0
+473,86470,Emerson,3/13/24,19368,Joe Biden,48.2
+474,86470,Emerson,3/13/24,16651,Donald Trump,51.8
+475,86470,Emerson,3/13/24,19368,Joe Biden,40.2
+476,86470,Emerson,3/13/24,16651,Donald Trump,43.7
+477,86470,Emerson,3/13/24,31042,Robert F. Kennedy,5.4
+478,86470,Emerson,3/13/24,31097,Cornel West,1.2
+479,86470,Emerson,3/13/24,31116,Jill Stein,1.2
+480,86464,Big Village,3/13/24,19368,Joe Biden,32.8
+481,86464,Big Village,3/13/24,16651,Donald Trump,36.3
+482,86464,Big Village,3/13/24,31042,Robert F. Kennedy,9.0
+483,86464,Big Village,3/13/24,31097,Cornel West,1.8
+484,86464,Big Village,3/13/24,19368,Joe Biden,36.8
+485,86464,Big Village,3/13/24,16651,Donald Trump,39.1
+486,86464,Big Village,3/13/24,31042,Robert F. Kennedy,8.6
+487,86464,Big Village,3/13/24,31097,Cornel West,2.1
+488,86464,Big Village,3/13/24,19368,Joe Biden,39.5
+489,86464,Big Village,3/13/24,16651,Donald Trump,40.9
+490,86464,Big Village,3/13/24,31042,Robert F. Kennedy,8.5
+491,86464,Big Village,3/13/24,31097,Cornel West,1.8
+492,86471,Ipsos,3/13/24,19368,Joe Biden,50.0
+493,86471,Ipsos,3/13/24,16651,Donald Trump,48.0
+494,86471,Ipsos,3/13/24,19368,Joe Biden,34.0
+495,86471,Ipsos,3/13/24,16651,Donald Trump,36.0
+496,86471,Ipsos,3/13/24,19368,Joe Biden,43.0
+497,86471,Ipsos,3/13/24,16651,Donald Trump,38.0
+498,86471,Ipsos,3/13/24,31042,Robert F. Kennedy,12.0
+499,86471,Ipsos,3/13/24,19368,Joe Biden,31.0
+500,86471,Ipsos,3/13/24,16651,Donald Trump,32.0
+501,86471,Ipsos,3/13/24,31042,Robert F. Kennedy,16.0
+502,86463,YouGov,3/12/24,19368,Joe Biden,42.0
+503,86463,YouGov,3/12/24,16651,Donald Trump,44.0
+504,86487,Morning Consult,3/12/24,19368,Joe Biden,44.0
+505,86487,Morning Consult,3/12/24,16651,Donald Trump,43.0
+506,86465,Civiqs,3/12/24,19368,Joe Biden,45.0
+507,86465,Civiqs,3/12/24,16651,Donald Trump,44.0
+508,86472,Quinnipiac,3/12/24,19368,Joe Biden,45.0
+509,86472,Quinnipiac,3/12/24,16651,Donald Trump,48.0
+510,86472,Quinnipiac,3/12/24,19368,Joe Biden,36.0
+511,86472,Quinnipiac,3/12/24,16651,Donald Trump,41.0
+512,86472,Quinnipiac,3/12/24,31042,Robert F. Kennedy,10.0
+513,86472,Quinnipiac,3/12/24,31097,Cornel West,3.0
+514,86472,Quinnipiac,3/12/24,31116,Jill Stein,4.0
+515,86546,Morning Consult,3/12/24,19368,Joe Biden,38.0
+516,86546,Morning Consult,3/12/24,16651,Donald Trump,45.0
+517,86546,Morning Consult,3/12/24,31042,Robert F. Kennedy,7.0
+518,86546,Morning Consult,3/12/24,31097,Cornel West,2.0
+519,86546,Morning Consult,3/12/24,31116,Jill Stein,0.0
+520,86546,Morning Consult,3/12/24,19368,Joe Biden,42.0
+521,86546,Morning Consult,3/12/24,16651,Donald Trump,49.0
+522,86547,Morning Consult,3/12/24,19368,Joe Biden,40.0
+523,86547,Morning Consult,3/12/24,16651,Donald Trump,40.0
+524,86547,Morning Consult,3/12/24,31042,Robert F. Kennedy,9.0
+525,86547,Morning Consult,3/12/24,31097,Cornel West,3.0
+526,86547,Morning Consult,3/12/24,31116,Jill Stein,2.0
+527,86547,Morning Consult,3/12/24,19368,Joe Biden,45.0
+528,86547,Morning Consult,3/12/24,16651,Donald Trump,45.0
+529,86549,Morning Consult,3/12/24,19368,Joe Biden,39.0
+530,86549,Morning Consult,3/12/24,16651,Donald Trump,45.0
+531,86549,Morning Consult,3/12/24,31042,Robert F. Kennedy,7.0
+532,86549,Morning Consult,3/12/24,31097,Cornel West,1.0
+533,86549,Morning Consult,3/12/24,31116,Jill Stein,0.0
+534,86549,Morning Consult,3/12/24,19368,Joe Biden,43.0
+535,86549,Morning Consult,3/12/24,16651,Donald Trump,49.0
+536,86550,Morning Consult,3/12/24,19368,Joe Biden,38.0
+537,86550,Morning Consult,3/12/24,16651,Donald Trump,44.0
+538,86550,Morning Consult,3/12/24,31042,Robert F. Kennedy,7.0
+539,86550,Morning Consult,3/12/24,31097,Cornel West,0.0
+540,86550,Morning Consult,3/12/24,31116,Jill Stein,1.0
+541,86550,Morning Consult,3/12/24,19368,Joe Biden,45.0
+542,86550,Morning Consult,3/12/24,16651,Donald Trump,45.0
+543,86488,Morning Consult,3/11/24,19368,Joe Biden,44.0
+544,86488,Morning Consult,3/11/24,16651,Donald Trump,43.0
+545,86459,YouGov,3/11/24,19368,Joe Biden,44.0
+546,86459,YouGov,3/11/24,16651,Donald Trump,46.0
+547,86459,YouGov,3/11/24,19368,Joe Biden,41.0
+548,86459,YouGov,3/11/24,16651,Donald Trump,43.0
+549,86460,Suffolk,3/11/24,19368,Joe Biden,37.5
+550,86460,Suffolk,3/11/24,16651,Donald Trump,40.0
+551,86460,Suffolk,3/11/24,31116,Jill Stein,1.8
+552,86460,Suffolk,3/11/24,31042,Robert F. Kennedy,8.7
+553,86460,Suffolk,3/11/24,31097,Cornel West,2.4
+554,86474,East Carolina University,3/11/24,19368,Joe Biden,37.6
+555,86474,East Carolina University,3/11/24,16651,Donald Trump,48.1
+556,86474,East Carolina University,3/11/24,31042,Robert F. Kennedy,4.6
+557,86474,East Carolina University,3/11/24,31116,Jill Stein,0.7
+558,86474,East Carolina University,3/11/24,31097,Cornel West,0.5
+559,86466,Beacon/Shaw,3/11/24,19368,Joe Biden,47.0
+560,86466,Beacon/Shaw,3/11/24,16651,Donald Trump,49.0
+561,86466,Beacon/Shaw,3/11/24,19368,Joe Biden,42.0
+562,86466,Beacon/Shaw,3/11/24,16651,Donald Trump,42.0
+563,86466,Beacon/Shaw,3/11/24,31042,Robert F. Kennedy,9.0
+564,86466,Beacon/Shaw,3/11/24,31097,Cornel West,2.0
+565,86466,Beacon/Shaw,3/11/24,31116,Jill Stein,2.0
+566,86467,Beacon/Shaw,3/11/24,19368,Joe Biden,45.0
+567,86467,Beacon/Shaw,3/11/24,16651,Donald Trump,49.0
+568,86467,Beacon/Shaw,3/11/24,19368,Joe Biden,39.0
+569,86467,Beacon/Shaw,3/11/24,16651,Donald Trump,43.0
+570,86467,Beacon/Shaw,3/11/24,31042,Robert F. Kennedy,10.0
+571,86467,Beacon/Shaw,3/11/24,31097,Cornel West,1.0
+572,86467,Beacon/Shaw,3/11/24,31116,Jill Stein,2.0
+573,86469,SurveyUSA,3/11/24,19368,Joe Biden,38.0
+574,86469,SurveyUSA,3/11/24,16651,Donald Trump,50.0
+575,86469,SurveyUSA,3/11/24,19368,Joe Biden,32.0
+576,86469,SurveyUSA,3/11/24,16651,Donald Trump,44.0
+577,86469,SurveyUSA,3/11/24,31042,Robert F. Kennedy,13.0
+578,86469,SurveyUSA,3/11/24,16661,Kamala Harris,38.0
+579,86469,SurveyUSA,3/11/24,16651,Donald Trump,51.0
+580,86469,SurveyUSA,3/11/24,18945,Gavin Newsom,33.0
+581,86469,SurveyUSA,3/11/24,16651,Donald Trump,51.0
+582,86469,SurveyUSA,3/11/24,28588,Gretchen Whitmer,34.0
+583,86469,SurveyUSA,3/11/24,16651,Donald Trump,51.0
+584,86457,YouGov,3/11/24,19368,Joe Biden,48.0
+585,86457,YouGov,3/11/24,16651,Donald Trump,51.0
+586,86326,Morning Consult,3/10/24,19368,Joe Biden,43.0
+587,86326,Morning Consult,3/10/24,16651,Donald Trump,44.0
+588,86353,HarrisX,3/10/24,19368,Joe Biden,48.0
+589,86353,HarrisX,3/10/24,16651,Donald Trump,52.0
+590,86353,HarrisX,3/10/24,19368,Joe Biden,38.0
+591,86353,HarrisX,3/10/24,16651,Donald Trump,44.0
+592,86353,HarrisX,3/10/24,31042,Robert F. Kennedy,15.0
+593,86353,HarrisX,3/10/24,31097,Cornel West,2.0
+594,86353,HarrisX,3/10/24,31116,Jill Stein,2.0
+595,86461,Emerson,3/10/24,19368,Joe Biden,44.6
+596,86461,Emerson,3/10/24,16651,Donald Trump,55.4
+597,86461,Emerson,3/10/24,19368,Joe Biden,38.0
+598,86461,Emerson,3/10/24,16651,Donald Trump,47.1
+599,86461,Emerson,3/10/24,31042,Robert F. Kennedy,5.7
+600,86461,Emerson,3/10/24,31097,Cornel West,1.4
+601,86461,Emerson,3/10/24,31116,Jill Stein,0.8
+602,86330,Morning Consult,3/9/24,19368,Joe Biden,44.0
+603,86330,Morning Consult,3/9/24,16651,Donald Trump,43.0
+604,86329,SurveyUSA,3/9/24,19368,Joe Biden,45.0
+605,86329,SurveyUSA,3/9/24,16651,Donald Trump,50.0
+606,86331,Morning Consult,3/8/24,19368,Joe Biden,43.0
+607,86331,Morning Consult,3/8/24,16651,Donald Trump,44.0
+608,86352,Cygnal,3/7/24,19368,Joe Biden,39.8
+609,86352,Cygnal,3/7/24,16651,Donald Trump,45.2
+610,86328,Emerson,3/7/24,19368,Joe Biden,48.0
+611,86328,Emerson,3/7/24,16651,Donald Trump,52.0
+612,86328,Emerson,3/7/24,19368,Joe Biden,37.1
+613,86328,Emerson,3/7/24,16651,Donald Trump,44.2
+614,86328,Emerson,3/7/24,31042,Robert F. Kennedy,5.4
+615,86328,Emerson,3/7/24,31097,Cornel West,1.9
+616,86328,Emerson,3/7/24,31116,Jill Stein,1.1
+617,86332,Morning Consult,3/7/24,19368,Joe Biden,43.0
+618,86332,Morning Consult,3/7/24,16651,Donald Trump,43.0
+619,86302,Emerson,3/6/24,19368,Joe Biden,51.0
+620,86302,Emerson,3/6/24,16651,Donald Trump,49.0
+621,86302,Emerson,3/6/24,19368,Joe Biden,41.5
+622,86302,Emerson,3/6/24,16651,Donald Trump,43.2
+623,86302,Emerson,3/6/24,31042,Robert F. Kennedy,6.0
+624,86302,Emerson,3/6/24,31097,Cornel West,1.6
+625,86302,Emerson,3/6/24,31116,Jill Stein,0.5
+626,86333,Morning Consult,3/6/24,19368,Joe Biden,42.0
+627,86333,Morning Consult,3/6/24,16651,Donald Trump,44.0
+628,86534,Susquehanna,3/6/24,19368,Joe Biden,50.0
+629,86534,Susquehanna,3/6/24,16651,Donald Trump,45.0
+630,86297,YouGov,3/5/24,19368,Joe Biden,42.0
+631,86297,YouGov,3/5/24,16651,Donald Trump,44.0
+632,86297,YouGov,3/5/24,19368,Joe Biden,37.0
+633,86297,YouGov,3/5/24,16640,Nikki Haley,34.0
+634,86334,Morning Consult,3/5/24,19368,Joe Biden,43.0
+635,86334,Morning Consult,3/5/24,16651,Donald Trump,43.0
+636,86301,Emerson,3/5/24,19368,Joe Biden,33.6
+637,86301,Emerson,3/5/24,16651,Donald Trump,54.8
+638,86301,Emerson,3/5/24,19368,Joe Biden,28.7
+639,86301,Emerson,3/5/24,16640,Nikki Haley,44.5
+640,86468,Noble Predictive Insights,3/5/24,19368,Joe Biden,40.0
+641,86468,Noble Predictive Insights,3/5/24,16651,Donald Trump,45.0
+642,86468,Noble Predictive Insights,3/5/24,19368,Joe Biden,33.0
+643,86468,Noble Predictive Insights,3/5/24,16651,Donald Trump,40.0
+644,86468,Noble Predictive Insights,3/5/24,31042,Robert F. Kennedy,11.0
+645,86468,Noble Predictive Insights,3/5/24,31097,Cornel West,4.0
+646,86468,Noble Predictive Insights,3/5/24,31116,Jill Stein,2.0
+647,86335,Morning Consult,3/4/24,19368,Joe Biden,44.0
+648,86335,Morning Consult,3/4/24,16651,Donald Trump,43.0
+649,86264,Morning Consult,3/3/24,19368,Joe Biden,44.0
+650,86264,Morning Consult,3/3/24,16651,Donald Trump,43.0
+651,86336,Morning Consult,3/3/24,19368,Joe Biden,44.0
+652,86336,Morning Consult,3/3/24,16651,Donald Trump,43.0
+653,86304,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,36.5
+654,86304,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,55.7
+655,86304,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,37.8
+656,86304,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,57.4
+657,86305,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,54.4
+658,86305,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,36.3
+659,86305,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,56.3
+660,86305,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,37.4
+661,86306,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,47.6
+662,86306,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,42.6
+663,86306,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,48.3
+664,86306,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,44.1
+665,86307,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,57.8
+666,86307,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,33.5
+667,86307,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,58.8
+668,86307,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,33.7
+669,86308,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,40.1
+670,86308,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,52.0
+671,86308,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,40.2
+672,86308,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,53.9
+673,86309,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,34.2
+674,86309,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,58.4
+675,86309,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,34.4
+676,86309,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,58.9
+677,86310,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,41.5
+678,86310,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,49.9
+679,86310,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,42.3
+680,86310,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,50.9
+681,86311,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,46.9
+682,86311,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,41.8
+683,86311,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,48.6
+684,86311,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,42.4
+685,86313,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,46.3
+686,86313,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,38.7
+687,86313,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,46.3
+688,86313,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,38.7
+689,86314,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,37.0
+690,86314,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,46.3
+691,86314,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,38.2
+692,86314,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,45.9
+693,86315,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,58.2
+694,86315,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,27.9
+695,86315,Florida Atlantic University/Mainstreet Research,3/3/24,19368,Joe Biden,59.3
+696,86315,Florida Atlantic University/Mainstreet Research,3/3/24,16651,Donald Trump,28.4
+697,86319,Redfield & Wilton Strategies,3/2/24,19368,Joe Biden,39.0
+698,86319,Redfield & Wilton Strategies,3/2/24,16651,Donald Trump,43.0
+699,86319,Redfield & Wilton Strategies,3/2/24,31042,Robert F. Kennedy,9.0
+700,86267,Morning Consult,3/2/24,19368,Joe Biden,43.0
+701,86267,Morning Consult,3/2/24,16651,Donald Trump,44.0
+702,86296,Emerson,3/2/24,19368,Joe Biden,35.0
+703,86296,Emerson,3/2/24,16651,Donald Trump,55.6
+704,86296,Emerson,3/2/24,19368,Joe Biden,28.3
+705,86296,Emerson,3/2/24,16651,Donald Trump,48.5
+706,86296,Emerson,3/2/24,31042,Robert F. Kennedy,8.2
+707,86296,Emerson,3/2/24,31097,Cornel West,1.1
+708,86296,Emerson,3/2/24,31116,Jill Stein,0.7
+709,86316,Data for Progress,3/2/24,19368,Joe Biden,41.0
+710,86316,Data for Progress,3/2/24,16651,Donald Trump,53.0
+711,86316,Data for Progress,3/2/24,19368,Joe Biden,41.0
+712,86316,Data for Progress,3/2/24,16651,Donald Trump,53.0
+713,86258,YouGov,3/1/24,19368,Joe Biden,48.0
+714,86258,YouGov,3/1/24,16651,Donald Trump,52.0
+715,86262,TIPP,3/1/24,19368,Joe Biden,43.0
+716,86262,TIPP,3/1/24,16651,Donald Trump,42.0
+717,86262,TIPP,3/1/24,19368,Joe Biden,38.0
+718,86262,TIPP,3/1/24,16651,Donald Trump,38.0
+719,86262,TIPP,3/1/24,31042,Robert F. Kennedy,9.0
+720,86262,TIPP,3/1/24,31097,Cornel West,2.0
+721,86262,TIPP,3/1/24,31116,Jill Stein,1.0
+722,86268,Morning Consult,3/1/24,19368,Joe Biden,42.0
+723,86268,Morning Consult,3/1/24,16651,Donald Trump,44.0
+724,86312,GS Strategy Group,3/1/24,19368,Joe Biden,45.3
+725,86312,GS Strategy Group,3/1/24,16651,Donald Trump,45.8
+726,86312,GS Strategy Group,3/1/24,19368,Joe Biden,33.0
+727,86312,GS Strategy Group,3/1/24,16651,Donald Trump,35.0
+728,86312,GS Strategy Group,3/1/24,31042,Robert F. Kennedy,13.0
+729,86312,GS Strategy Group,3/1/24,31272,Nikki Haley,9.0
+730,86269,Morning Consult,2/29/24,19368,Joe Biden,42.0
+731,86269,Morning Consult,2/29/24,16651,Donald Trump,44.0
+732,86252,Ipsos,2/28/24,19368,Joe Biden,36.0
+733,86252,Ipsos,2/28/24,16651,Donald Trump,36.0
+734,86270,Morning Consult,2/28/24,19368,Joe Biden,42.0
+735,86270,Morning Consult,2/28/24,16651,Donald Trump,44.0
+736,86253,Siena/NYT,2/28/24,19368,Joe Biden,43.0
+737,86253,Siena/NYT,2/28/24,16651,Donald Trump,48.0
+738,86253,Siena/NYT,2/28/24,19368,Joe Biden,44.0
+739,86253,Siena/NYT,2/28/24,16651,Donald Trump,48.0
+740,86253,Siena/NYT,2/28/24,19368,Joe Biden,35.0
+741,86253,Siena/NYT,2/28/24,16640,Nikki Haley,45.0
+742,86253,Siena/NYT,2/28/24,19368,Joe Biden,37.0
+743,86253,Siena/NYT,2/28/24,16640,Nikki Haley,46.0
+744,86253,Siena/NYT,2/28/24,16661,Kamala Harris,41.0
+745,86253,Siena/NYT,2/28/24,16651,Donald Trump,47.0
+746,86253,Siena/NYT,2/28/24,16661,Kamala Harris,42.0
+747,86253,Siena/NYT,2/28/24,16651,Donald Trump,48.0
+748,86256,Beacon/Shaw,2/28/24,19368,Joe Biden,38.0
+749,86256,Beacon/Shaw,2/28/24,16651,Donald Trump,41.0
+750,86256,Beacon/Shaw,2/28/24,31042,Robert F. Kennedy,13.0
+751,86256,Beacon/Shaw,2/28/24,31097,Cornel West,3.0
+752,86256,Beacon/Shaw,2/28/24,31116,Jill Stein,2.0
+753,86256,Beacon/Shaw,2/28/24,19368,Joe Biden,47.0
+754,86256,Beacon/Shaw,2/28/24,16651,Donald Trump,49.0
+755,86256,Beacon/Shaw,2/28/24,19368,Joe Biden,35.0
+756,86256,Beacon/Shaw,2/28/24,16640,Nikki Haley,28.0
+757,86256,Beacon/Shaw,2/28/24,31042,Robert F. Kennedy,24.0
+758,86256,Beacon/Shaw,2/28/24,31097,Cornel West,5.0
+759,86256,Beacon/Shaw,2/28/24,31116,Jill Stein,2.0
+760,86256,Beacon/Shaw,2/28/24,19368,Joe Biden,42.0
+761,86256,Beacon/Shaw,2/28/24,16640,Nikki Haley,50.0
+762,86275,Selzer,2/28/24,19368,Joe Biden,33.0
+763,86275,Selzer,2/28/24,16651,Donald Trump,48.0
+764,86244,HarrisX,2/28/24,19368,Joe Biden,48.0
+765,86244,HarrisX,2/28/24,16651,Donald Trump,52.0
+766,86244,HarrisX,2/28/24,19368,Joe Biden,38.0
+767,86244,HarrisX,2/28/24,16651,Donald Trump,43.0
+768,86244,HarrisX,2/28/24,31042,Robert F. Kennedy,14.0
+769,86244,HarrisX,2/28/24,31097,Cornel West,3.0
+770,86244,HarrisX,2/28/24,31116,Jill Stein,2.0
+771,86266,SurveyUSA,2/28/24,19368,Joe Biden,42.0
+772,86266,SurveyUSA,2/28/24,16651,Donald Trump,38.0
+773,86255,Fabrizio/GBAO,2/28/24,19368,Joe Biden,35.0
+774,86255,Fabrizio/GBAO,2/28/24,16651,Donald Trump,40.0
+775,86255,Fabrizio/GBAO,2/28/24,31042,Robert F. Kennedy,9.0
+776,86255,Fabrizio/GBAO,2/28/24,31097,Cornel West,2.0
+777,86255,Fabrizio/GBAO,2/28/24,31116,Jill Stein,1.0
+778,86255,Fabrizio/GBAO,2/28/24,31061,Lars Mapstead,1.0
+779,86255,Fabrizio/GBAO,2/28/24,31018,"Joe Manchin, III",0.0
+780,86255,Fabrizio/GBAO,2/28/24,19368,Joe Biden,45.0
+781,86255,Fabrizio/GBAO,2/28/24,16651,Donald Trump,47.0
+782,86300,Kaiser Family Foundation,2/28/24,19368,Joe Biden,47.0
+783,86300,Kaiser Family Foundation,2/28/24,16651,Donald Trump,44.0
+784,86215,YouGov,2/27/24,19368,Joe Biden,44.0
+785,86215,YouGov,2/27/24,16651,Donald Trump,44.0
+786,86271,Morning Consult,2/27/24,19368,Joe Biden,42.0
+787,86271,Morning Consult,2/27/24,16651,Donald Trump,44.0
+788,86274,Axis Research,2/27/24,19368,Joe Biden,40.0
+789,86274,Axis Research,2/27/24,16651,Donald Trump,39.0
+790,86274,Axis Research,2/27/24,31097,Cornel West,1.0
+791,86274,Axis Research,2/27/24,31116,Jill Stein,2.0
+792,86274,Axis Research,2/27/24,31042,Robert F. Kennedy,8.0
+793,86274,Axis Research,2/27/24,19368,Joe Biden,39.0
+794,86274,Axis Research,2/27/24,16640,Nikki Haley,19.0
+795,86274,Axis Research,2/27/24,31097,Cornel West,1.0
+796,86274,Axis Research,2/27/24,31116,Jill Stein,1.0
+797,86274,Axis Research,2/27/24,31042,Robert F. Kennedy,13.0
+798,86229,Emerson,2/27/24,19368,Joe Biden,56.5
+799,86229,Emerson,2/27/24,16651,Donald Trump,35.1
+800,86229,Emerson,2/27/24,19368,Joe Biden,50.8
+801,86229,Emerson,2/27/24,16651,Donald Trump,31.5
+802,86229,Emerson,2/27/24,31042,Robert F. Kennedy,6.4
+803,86229,Emerson,2/27/24,31097,Cornel West,2.0
+804,86229,Emerson,2/27/24,31116,Jill Stein,0.9
+805,86299,Clarity,2/27/24,19368,Joe Biden,42.0
+806,86299,Clarity,2/27/24,16651,Donald Trump,45.0
+807,86299,Clarity,2/27/24,19368,Joe Biden,38.0
+808,86299,Clarity,2/27/24,16640,Nikki Haley,35.0
+809,86272,Morning Consult,2/26/24,19368,Joe Biden,43.0
+810,86272,Morning Consult,2/26/24,16651,Donald Trump,44.0
+811,86240,UC Berkeley,2/26/24,19368,Joe Biden,40.0
+812,86240,UC Berkeley,2/26/24,16651,Donald Trump,28.0
+813,86240,UC Berkeley,2/26/24,31042,Robert F. Kennedy,11.0
+814,86240,UC Berkeley,2/26/24,31097,Cornel West,3.0
+815,86240,UC Berkeley,2/26/24,31116,Jill Stein,2.0
+816,86240,UC Berkeley,2/26/24,19368,Joe Biden,52.0
+817,86240,UC Berkeley,2/26/24,16651,Donald Trump,34.0
+818,86220,Rasmussen,2/26/24,19368,Joe Biden,40.0
+819,86220,Rasmussen,2/26/24,16651,Donald Trump,47.0
+820,86238,University of Texas at Tyler,2/26/24,19368,Joe Biden,42.0
+821,86238,University of Texas at Tyler,2/26/24,16651,Donald Trump,46.0
+822,86238,University of Texas at Tyler,2/26/24,19368,Joe Biden,37.0
+823,86238,University of Texas at Tyler,2/26/24,16651,Donald Trump,41.0
+824,86238,University of Texas at Tyler,2/26/24,31042,Robert F. Kennedy,13.0
+825,86238,University of Texas at Tyler,2/26/24,31097,Cornel West,6.0
+826,86238,University of Texas at Tyler,2/26/24,31116,Jill Stein,3.0
+827,86238,University of Texas at Tyler,2/26/24,19368,Joe Biden,36.0
+828,86238,University of Texas at Tyler,2/26/24,16640,Nikki Haley,42.0
+829,86238,University of Texas at Tyler,2/26/24,19368,Joe Biden,36.0
+830,86238,University of Texas at Tyler,2/26/24,16640,Nikki Haley,33.0
+831,86238,University of Texas at Tyler,2/26/24,31042,Robert F. Kennedy,20.0
+832,86238,University of Texas at Tyler,2/26/24,31097,Cornel West,7.0
+833,86238,University of Texas at Tyler,2/26/24,31116,Jill Stein,3.0
+834,86226,ActiVote,2/26/24,19368,Joe Biden,49.0
+835,86226,ActiVote,2/26/24,16640,Nikki Haley,51.0
+836,86225,ActiVote,2/26/24,19368,Joe Biden,46.9
+837,86225,ActiVote,2/26/24,16651,Donald Trump,53.1
+838,86195,Morning Consult,2/25/24,19368,Joe Biden,43.0
+839,86195,Morning Consult,2/25/24,16651,Donald Trump,44.0
+840,86217,Leger,2/25/24,19368,Joe Biden,36.0
+841,86217,Leger,2/25/24,16651,Donald Trump,39.0
+842,86217,Leger,2/25/24,19368,Joe Biden,42.0
+843,86217,Leger,2/25/24,16651,Donald Trump,45.0
+844,86192,North Star Opinion Research,2/25/24,19368,Joe Biden,43.0
+845,86192,North Star Opinion Research,2/25/24,16651,Donald Trump,43.0
+846,86196,Morning Consult,2/24/24,19368,Joe Biden,43.0
+847,86196,Morning Consult,2/24/24,16651,Donald Trump,44.0
+848,86181,Emerson,2/24/24,19368,Joe Biden,44.0
+849,86181,Emerson,2/24/24,16651,Donald Trump,46.0
+850,86181,Emerson,2/24/24,19368,Joe Biden,38.7
+851,86181,Emerson,2/24/24,16651,Donald Trump,42.4
+852,86181,Emerson,2/24/24,31042,Robert F. Kennedy,5.8
+853,86181,Emerson,2/24/24,31097,Cornel West,1.4
+854,86181,Emerson,2/24/24,31116,Jill Stein,1.1
+855,86194,Emerson,2/24/24,19368,Joe Biden,42.4
+856,86194,Emerson,2/24/24,16651,Donald Trump,45.2
+857,86194,Emerson,2/24/24,19368,Joe Biden,37.1
+858,86194,Emerson,2/24/24,16651,Donald Trump,40.8
+859,86194,Emerson,2/24/24,31042,Robert F. Kennedy,6.9
+860,86194,Emerson,2/24/24,31097,Cornel West,0.5
+861,86194,Emerson,2/24/24,31116,Jill Stein,1.3
+862,86194,Emerson,2/24/24,16661,Kamala Harris,43.6
+863,86194,Emerson,2/24/24,16651,Donald Trump,47.0
+864,86194,Emerson,2/24/24,18945,Gavin Newsom,35.8
+865,86194,Emerson,2/24/24,16651,Donald Trump,44.7
+866,86191,Kaplan Strategies,2/23/24,19368,Joe Biden,39.0
+867,86191,Kaplan Strategies,2/23/24,16651,Donald Trump,41.0
+868,86193,Kaplan Strategies,2/23/24,19368,Joe Biden,36.0
+869,86193,Kaplan Strategies,2/23/24,16651,Donald Trump,46.0
+870,86197,Morning Consult,2/23/24,19368,Joe Biden,42.0
+871,86197,Morning Consult,2/23/24,16651,Donald Trump,43.0
+872,86176,HarrisX,2/23/24,19368,Joe Biden,48.0
+873,86176,HarrisX,2/23/24,16651,Donald Trump,52.0
+874,86176,HarrisX,2/23/24,19368,Joe Biden,40.0
+875,86176,HarrisX,2/23/24,16651,Donald Trump,42.0
+876,86176,HarrisX,2/23/24,31042,Robert F. Kennedy,14.0
+877,86176,HarrisX,2/23/24,31097,Cornel West,3.0
+878,86176,HarrisX,2/23/24,31116,Jill Stein,2.0
+879,86190,HarrisX/Harris Poll,2/22/24,19368,Joe Biden,47.0
+880,86190,HarrisX/Harris Poll,2/22/24,16651,Donald Trump,53.0
+881,86190,HarrisX/Harris Poll,2/22/24,19368,Joe Biden,37.0
+882,86190,HarrisX/Harris Poll,2/22/24,16651,Donald Trump,44.0
+883,86190,HarrisX/Harris Poll,2/22/24,31042,Robert F. Kennedy,18.0
+884,86190,HarrisX/Harris Poll,2/22/24,19368,Joe Biden,36.0
+885,86190,HarrisX/Harris Poll,2/22/24,16651,Donald Trump,44.0
+886,86190,HarrisX/Harris Poll,2/22/24,31042,Robert F. Kennedy,17.0
+887,86190,HarrisX/Harris Poll,2/22/24,31097,Cornel West,2.0
+888,86190,HarrisX/Harris Poll,2/22/24,31116,Jill Stein,1.0
+889,86190,HarrisX/Harris Poll,2/22/24,19368,Joe Biden,41.0
+890,86190,HarrisX/Harris Poll,2/22/24,16640,Nikki Haley,39.0
+891,86198,Morning Consult,2/22/24,19368,Joe Biden,42.0
+892,86198,Morning Consult,2/22/24,16651,Donald Trump,42.0
+893,86224,McLaughlin,2/22/24,19368,Joe Biden,43.7
+894,86224,McLaughlin,2/22/24,16651,Donald Trump,45.9
+895,86224,McLaughlin,2/22/24,19368,Joe Biden,45.7
+896,86224,McLaughlin,2/22/24,16651,Donald Trump,47.1
+897,86224,McLaughlin,2/22/24,19368,Joe Biden,34.7
+898,86224,McLaughlin,2/22/24,16651,Donald Trump,38.8
+899,86224,McLaughlin,2/22/24,31042,Robert F. Kennedy,10.9
+900,86224,McLaughlin,2/22/24,31097,Cornel West,2.0
+901,86224,McLaughlin,2/22/24,31116,Jill Stein,1.5
+902,86224,McLaughlin,2/22/24,31061,Lars Mapstead,1.1
+903,86224,McLaughlin,2/22/24,19368,Joe Biden,37.1
+904,86224,McLaughlin,2/22/24,16651,Donald Trump,40.9
+905,86224,McLaughlin,2/22/24,31042,Robert F. Kennedy,10.4
+906,86224,McLaughlin,2/22/24,31097,Cornel West,1.8
+907,86224,McLaughlin,2/22/24,31116,Jill Stein,1.3
+908,86224,McLaughlin,2/22/24,31061,Lars Mapstead,1.0
+909,86180,Bullfinch,2/22/24,19368,Joe Biden,37.0
+910,86180,Bullfinch,2/22/24,16651,Donald Trump,41.0
+911,86180,Bullfinch,2/22/24,19368,Joe Biden,38.0
+912,86180,Bullfinch,2/22/24,16651,Donald Trump,41.0
+913,86199,Morning Consult,2/21/24,19368,Joe Biden,41.0
+914,86199,Morning Consult,2/21/24,16651,Donald Trump,43.0
+915,86145,YouGov,2/20/24,19368,Joe Biden,42.0
+916,86145,YouGov,2/20/24,16651,Donald Trump,43.0
+917,86200,Morning Consult,2/20/24,19368,Joe Biden,41.0
+918,86200,Morning Consult,2/20/24,16651,Donald Trump,44.0
+919,86129,Morning Consult,2/19/24,19368,Joe Biden,41.0
+920,86129,Morning Consult,2/19/24,16651,Donald Trump,45.0
+921,86164,Emerson,2/19/24,19368,Joe Biden,40.2
+922,86164,Emerson,2/19/24,16651,Donald Trump,46.0
+923,86164,Emerson,2/19/24,19368,Joe Biden,34.3
+924,86164,Emerson,2/19/24,16651,Donald Trump,44.3
+925,86164,Emerson,2/19/24,31042,Robert F. Kennedy,6.2
+926,86164,Emerson,2/19/24,31097,Cornel West,1.1
+927,86164,Emerson,2/19/24,31116,Jill Stein,1.2
+928,86164,Emerson,2/19/24,16661,Kamala Harris,38.9
+929,86164,Emerson,2/19/24,16651,Donald Trump,47.6
+930,86164,Emerson,2/19/24,18945,Gavin Newsom,31.5
+931,86164,Emerson,2/19/24,16651,Donald Trump,49.0
+932,86165,Emerson,2/19/24,19368,Joe Biden,42.5
+933,86165,Emerson,2/19/24,16651,Donald Trump,45.6
+934,86165,Emerson,2/19/24,19368,Joe Biden,37.1
+935,86165,Emerson,2/19/24,16651,Donald Trump,42.6
+936,86165,Emerson,2/19/24,31042,Robert F. Kennedy,7.5
+937,86165,Emerson,2/19/24,31097,Cornel West,1.1
+938,86165,Emerson,2/19/24,31116,Jill Stein,1.3
+939,86165,Emerson,2/19/24,16661,Kamala Harris,40.3
+940,86165,Emerson,2/19/24,16651,Donald Trump,47.6
+941,86165,Emerson,2/19/24,18945,Gavin Newsom,34.4
+942,86165,Emerson,2/19/24,16651,Donald Trump,47.3
+943,86147,Quinnipiac,2/19/24,19368,Joe Biden,49.0
+944,86147,Quinnipiac,2/19/24,16651,Donald Trump,45.0
+945,86147,Quinnipiac,2/19/24,19368,Joe Biden,38.0
+946,86147,Quinnipiac,2/19/24,16651,Donald Trump,37.0
+947,86147,Quinnipiac,2/19/24,31042,Robert F. Kennedy,15.0
+948,86147,Quinnipiac,2/19/24,31097,Cornel West,3.0
+949,86147,Quinnipiac,2/19/24,31116,Jill Stein,3.0
+950,86147,Quinnipiac,2/19/24,19368,Joe Biden,43.0
+951,86147,Quinnipiac,2/19/24,16640,Nikki Haley,46.0
+952,86147,Quinnipiac,2/19/24,19368,Joe Biden,35.0
+953,86147,Quinnipiac,2/19/24,16640,Nikki Haley,27.0
+954,86147,Quinnipiac,2/19/24,31042,Robert F. Kennedy,24.0
+955,86147,Quinnipiac,2/19/24,31097,Cornel West,5.0
+956,86147,Quinnipiac,2/19/24,31116,Jill Stein,3.0
+957,86241,Roanoke College,2/19/24,19368,Joe Biden,47.0
+958,86241,Roanoke College,2/19/24,16651,Donald Trump,43.0
+959,86241,Roanoke College,2/19/24,19368,Joe Biden,40.0
+960,86241,Roanoke College,2/19/24,16640,Nikki Haley,49.0
+961,86068,Emerson,2/18/24,19368,Joe Biden,55.3
+962,86068,Emerson,2/18/24,16651,Donald Trump,32.6
+963,86068,Emerson,2/18/24,19368,Joe Biden,48.9
+964,86068,Emerson,2/18/24,16651,Donald Trump,30.7
+965,86068,Emerson,2/18/24,31042,Robert F. Kennedy,7.7
+966,86068,Emerson,2/18/24,31097,Cornel West,1.3
+967,86068,Emerson,2/18/24,31116,Jill Stein,0.8
+968,86130,Morning Consult,2/18/24,19368,Joe Biden,42.0
+969,86130,Morning Consult,2/18/24,16651,Donald Trump,45.0
+970,86140,EPIC/MRA,2/18/24,19368,Joe Biden,41.0
+971,86140,EPIC/MRA,2/18/24,16651,Donald Trump,45.0
+972,86230,Morning Consult,2/18/24,19368,Joe Biden,36.0
+973,86230,Morning Consult,2/18/24,16651,Donald Trump,45.0
+974,86230,Morning Consult,2/18/24,31042,Robert F. Kennedy,9.0
+975,86230,Morning Consult,2/18/24,31097,Cornel West,1.0
+976,86230,Morning Consult,2/18/24,31116,Jill Stein,1.0
+977,86230,Morning Consult,2/18/24,19368,Joe Biden,43.0
+978,86230,Morning Consult,2/18/24,16651,Donald Trump,49.0
+979,86231,Morning Consult,2/18/24,19368,Joe Biden,38.0
+980,86231,Morning Consult,2/18/24,16651,Donald Trump,45.0
+981,86231,Morning Consult,2/18/24,31042,Robert F. Kennedy,6.0
+982,86231,Morning Consult,2/18/24,31097,Cornel West,1.0
+983,86231,Morning Consult,2/18/24,31116,Jill Stein,1.0
+984,86231,Morning Consult,2/18/24,19368,Joe Biden,43.0
+985,86231,Morning Consult,2/18/24,16651,Donald Trump,49.0
+986,86232,Morning Consult,2/18/24,19368,Joe Biden,40.0
+987,86232,Morning Consult,2/18/24,16651,Donald Trump,41.0
+988,86232,Morning Consult,2/18/24,31042,Robert F. Kennedy,9.0
+989,86232,Morning Consult,2/18/24,31097,Cornel West,1.0
+990,86232,Morning Consult,2/18/24,31116,Jill Stein,1.0
+991,86232,Morning Consult,2/18/24,19368,Joe Biden,44.0
+992,86232,Morning Consult,2/18/24,16651,Donald Trump,46.0
+993,86233,Morning Consult,2/18/24,19368,Joe Biden,37.0
+994,86233,Morning Consult,2/18/24,16651,Donald Trump,44.0
+995,86233,Morning Consult,2/18/24,31042,Robert F. Kennedy,9.0
+996,86233,Morning Consult,2/18/24,31097,Cornel West,1.0
+997,86233,Morning Consult,2/18/24,31116,Jill Stein,0.0
+998,86233,Morning Consult,2/18/24,19368,Joe Biden,42.0
+999,86233,Morning Consult,2/18/24,16651,Donald Trump,48.0
+1000,86234,Morning Consult,2/18/24,19368,Joe Biden,35.0
+1001,86234,Morning Consult,2/18/24,16651,Donald Trump,45.0
+1002,86234,Morning Consult,2/18/24,31042,Robert F. Kennedy,9.0
+1003,86234,Morning Consult,2/18/24,31097,Cornel West,1.0
+1004,86234,Morning Consult,2/18/24,31116,Jill Stein,1.0
+1005,86234,Morning Consult,2/18/24,19368,Joe Biden,41.0
+1006,86234,Morning Consult,2/18/24,16651,Donald Trump,50.0
+1007,86235,Morning Consult,2/18/24,19368,Joe Biden,36.0
+1008,86235,Morning Consult,2/18/24,16651,Donald Trump,45.0
+1009,86235,Morning Consult,2/18/24,31042,Robert F. Kennedy,8.0
+1010,86235,Morning Consult,2/18/24,31097,Cornel West,1.0
+1011,86235,Morning Consult,2/18/24,31116,Jill Stein,1.0
+1012,86235,Morning Consult,2/18/24,19368,Joe Biden,43.0
+1013,86235,Morning Consult,2/18/24,16651,Donald Trump,49.0
+1014,86236,Morning Consult,2/18/24,19368,Joe Biden,35.0
+1015,86236,Morning Consult,2/18/24,16651,Donald Trump,41.0
+1016,86236,Morning Consult,2/18/24,31042,Robert F. Kennedy,10.0
+1017,86236,Morning Consult,2/18/24,31097,Cornel West,1.0
+1018,86236,Morning Consult,2/18/24,31116,Jill Stein,1.0
+1019,86236,Morning Consult,2/18/24,19368,Joe Biden,42.0
+1020,86236,Morning Consult,2/18/24,16651,Donald Trump,46.0
+1021,86131,Morning Consult,2/17/24,19368,Joe Biden,42.0
+1022,86131,Morning Consult,2/17/24,16651,Donald Trump,45.0
+1023,86066,Emerson,2/16/24,19368,Joe Biden,36.7
+1024,86066,Emerson,2/16/24,16651,Donald Trump,50.6
+1025,86067,Emerson,2/16/24,19368,Joe Biden,42.9
+1026,86067,Emerson,2/16/24,16651,Donald Trump,45.1
+1027,86067,Emerson,2/16/24,19368,Joe Biden,36.8
+1028,86067,Emerson,2/16/24,16651,Donald Trump,41.5
+1029,86067,Emerson,2/16/24,31042,Robert F. Kennedy,7.6
+1030,86067,Emerson,2/16/24,31097,Cornel West,1.6
+1031,86067,Emerson,2/16/24,31116,Jill Stein,0.9
+1032,86067,Emerson,2/16/24,16661,Kamala Harris,39.5
+1033,86067,Emerson,2/16/24,16651,Donald Trump,49.2
+1034,86067,Emerson,2/16/24,18945,Gavin Newsom,33.2
+1035,86067,Emerson,2/16/24,16651,Donald Trump,48.4
+1036,86136,Morning Consult,2/16/24,19368,Joe Biden,42.0
+1037,86136,Morning Consult,2/16/24,16651,Donald Trump,45.0
+1038,86141,Emerson,2/16/24,19368,Joe Biden,43.7
+1039,86141,Emerson,2/16/24,16651,Donald Trump,46.6
+1040,86141,Emerson,2/16/24,19368,Joe Biden,36.7
+1041,86141,Emerson,2/16/24,16651,Donald Trump,45.9
+1042,86141,Emerson,2/16/24,31042,Robert F. Kennedy,4.9
+1043,86141,Emerson,2/16/24,31097,Cornel West,1.0
+1044,86141,Emerson,2/16/24,31116,Jill Stein,0.9
+1045,86141,Emerson,2/16/24,16661,Kamala Harris,40.7
+1046,86141,Emerson,2/16/24,16651,Donald Trump,49.9
+1047,86141,Emerson,2/16/24,18945,Gavin Newsom,34.0
+1048,86141,Emerson,2/16/24,16651,Donald Trump,49.2
+1049,86143,Emerson,2/16/24,19368,Joe Biden,41.6
+1050,86143,Emerson,2/16/24,16651,Donald Trump,47.9
+1051,86143,Emerson,2/16/24,19368,Joe Biden,36.2
+1052,86143,Emerson,2/16/24,16651,Donald Trump,45.0
+1053,86143,Emerson,2/16/24,31042,Robert F. Kennedy,5.9
+1054,86143,Emerson,2/16/24,31097,Cornel West,1.4
+1055,86143,Emerson,2/16/24,31116,Jill Stein,0.7
+1056,86143,Emerson,2/16/24,16661,Kamala Harris,41.2
+1057,86143,Emerson,2/16/24,16651,Donald Trump,51.0
+1058,86143,Emerson,2/16/24,18945,Gavin Newsom,32.2
+1059,86143,Emerson,2/16/24,16651,Donald Trump,50.5
+1060,86127,HarrisX,2/16/24,19368,Joe Biden,46.0
+1061,86127,HarrisX,2/16/24,16651,Donald Trump,54.0
+1062,86127,HarrisX,2/16/24,19368,Joe Biden,36.0
+1063,86127,HarrisX,2/16/24,16651,Donald Trump,44.0
+1064,86127,HarrisX,2/16/24,31042,Robert F. Kennedy,15.0
+1065,86127,HarrisX,2/16/24,31097,Cornel West,3.0
+1066,86127,HarrisX,2/16/24,31116,Jill Stein,3.0
+1067,86126,Rasmussen,2/15/24,19368,Joe Biden,41.0
+1068,86126,Rasmussen,2/15/24,16651,Donald Trump,47.0
+1069,86126,Rasmussen,2/15/24,19368,Joe Biden,37.0
+1070,86126,Rasmussen,2/15/24,16651,Donald Trump,43.0
+1071,86126,Rasmussen,2/15/24,31042,Robert F. Kennedy,12.0
+1072,86132,Morning Consult,2/15/24,19368,Joe Biden,41.0
+1073,86132,Morning Consult,2/15/24,16651,Donald Trump,44.0
+1074,85968,SurveyUSA,2/15/24,19368,Joe Biden,29.0
+1075,85968,SurveyUSA,2/15/24,16651,Donald Trump,51.0
+1076,86148,Marquette Law School,2/15/24,19368,Joe Biden,49.0
+1077,86148,Marquette Law School,2/15/24,16651,Donald Trump,51.0
+1078,86148,Marquette Law School,2/15/24,19368,Joe Biden,48.0
+1079,86148,Marquette Law School,2/15/24,16651,Donald Trump,52.0
+1080,86148,Marquette Law School,2/15/24,19368,Joe Biden,42.0
+1081,86148,Marquette Law School,2/15/24,16640,Nikki Haley,58.0
+1082,86148,Marquette Law School,2/15/24,19368,Joe Biden,41.0
+1083,86148,Marquette Law School,2/15/24,16640,Nikki Haley,59.0
+1084,86148,Marquette Law School,2/15/24,19368,Joe Biden,39.0
+1085,86148,Marquette Law School,2/15/24,16651,Donald Trump,42.0
+1086,86148,Marquette Law School,2/15/24,31042,Robert F. Kennedy,15.0
+1087,86148,Marquette Law School,2/15/24,31097,Cornel West,3.0
+1088,86148,Marquette Law School,2/15/24,31116,Jill Stein,2.0
+1089,86148,Marquette Law School,2/15/24,19368,Joe Biden,40.0
+1090,86148,Marquette Law School,2/15/24,16651,Donald Trump,43.0
+1091,86148,Marquette Law School,2/15/24,31042,Robert F. Kennedy,14.0
+1092,86148,Marquette Law School,2/15/24,31097,Cornel West,1.0
+1093,86148,Marquette Law School,2/15/24,31116,Jill Stein,1.0
+1094,85969,Emerson,2/14/24,19368,Joe Biden,44.1
+1095,85969,Emerson,2/14/24,16651,Donald Trump,44.7
+1096,85969,Emerson,2/14/24,19368,Joe Biden,37.9
+1097,85969,Emerson,2/14/24,16651,Donald Trump,40.2
+1098,85969,Emerson,2/14/24,31042,Robert F. Kennedy,6.7
+1099,85969,Emerson,2/14/24,31097,Cornel West,1.4
+1100,85969,Emerson,2/14/24,31116,Jill Stein,1.3
+1101,85969,Emerson,2/14/24,16661,Kamala Harris,42.7
+1102,85969,Emerson,2/14/24,16651,Donald Trump,46.0
+1103,85969,Emerson,2/14/24,28588,Gretchen Whitmer,32.8
+1104,85969,Emerson,2/14/24,16651,Donald Trump,45.0
+1105,85969,Emerson,2/14/24,18945,Gavin Newsom,36.0
+1106,85969,Emerson,2/14/24,16651,Donald Trump,46.1
+1107,85973,PPP,2/14/24,19368,Joe Biden,54.0
+1108,85973,PPP,2/14/24,16651,Donald Trump,38.0
+1109,86059,Echelon Insights,2/14/24,19368,Joe Biden,45.0
+1110,86059,Echelon Insights,2/14/24,16651,Donald Trump,49.0
+1111,86059,Echelon Insights,2/14/24,19368,Joe Biden,37.0
+1112,86059,Echelon Insights,2/14/24,16651,Donald Trump,42.0
+1113,86059,Echelon Insights,2/14/24,31042,Robert F. Kennedy,8.0
+1114,86059,Echelon Insights,2/14/24,31116,Jill Stein,2.0
+1115,86059,Echelon Insights,2/14/24,31018,"Joe Manchin, III",2.0
+1116,86059,Echelon Insights,2/14/24,31097,Cornel West,2.0
+1117,86069,Siena,2/14/24,19368,Joe Biden,48.0
+1118,86069,Siena,2/14/24,16651,Donald Trump,36.0
+1119,86069,Siena,2/14/24,19368,Joe Biden,42.0
+1120,86069,Siena,2/14/24,16651,Donald Trump,32.0
+1121,86069,Siena,2/14/24,31042,Robert F. Kennedy,13.0
+1122,86069,Siena,2/14/24,31097,Cornel West,6.0
+1123,86133,Morning Consult,2/14/24,19368,Joe Biden,42.0
+1124,86133,Morning Consult,2/14/24,16651,Donald Trump,44.0
+1125,86187,Pan Atlantic Research,2/14/24,19368,Joe Biden,32.0
+1126,86187,Pan Atlantic Research,2/14/24,16651,Donald Trump,38.0
+1127,86188,Pan Atlantic Research,2/14/24,19368,Joe Biden,39.0
+1128,86188,Pan Atlantic Research,2/14/24,16651,Donald Trump,31.0
+1129,86189,Pan Atlantic Research,2/14/24,19368,Joe Biden,25.0
+1130,86189,Pan Atlantic Research,2/14/24,16651,Donald Trump,45.0
+1131,85962,Emerson,2/13/24,19368,Joe Biden,54.6
+1132,85962,Emerson,2/13/24,16651,Donald Trump,32.0
+1133,85962,Emerson,2/13/24,19368,Joe Biden,46.6
+1134,85962,Emerson,2/13/24,16651,Donald Trump,31.4
+1135,85962,Emerson,2/13/24,31042,Robert F. Kennedy,5.9
+1136,85962,Emerson,2/13/24,31097,Cornel West,1.2
+1137,85962,Emerson,2/13/24,31116,Jill Stein,1.4
+1138,86060,Cygnal,2/13/24,19368,Joe Biden,40.0
+1139,86060,Cygnal,2/13/24,16651,Donald Trump,49.2
+1140,85938,YouGov,2/13/24,19368,Joe Biden,44.0
+1141,85938,YouGov,2/13/24,16651,Donald Trump,44.0
+1142,86134,Morning Consult,2/13/24,19368,Joe Biden,42.0
+1143,86134,Morning Consult,2/13/24,16651,Donald Trump,44.0
+1144,86174,PPIC,2/13/24,19368,Joe Biden,55.0
+1145,86174,PPIC,2/13/24,16651,Donald Trump,32.0
+1146,86135,Morning Consult,2/12/24,19368,Joe Biden,42.0
+1147,86135,Morning Consult,2/12/24,16651,Donald Trump,44.0
+1148,85930,Ipsos,2/12/24,19368,Joe Biden,34.0
+1149,85930,Ipsos,2/12/24,16651,Donald Trump,37.0
+1150,85971,East Carolina University,2/12/24,19368,Joe Biden,43.4
+1151,85971,East Carolina University,2/12/24,16651,Donald Trump,46.5
+1152,85971,East Carolina University,2/12/24,31042,Robert F. Kennedy,1.5
+1153,85971,East Carolina University,2/12/24,31097,Cornel West,1.1
+1154,85971,East Carolina University,2/12/24,31116,Jill Stein,0.3
+1155,85971,East Carolina University,2/12/24,19368,Joe Biden,39.7
+1156,85971,East Carolina University,2/12/24,16640,Nikki Haley,31.9
+1157,85971,East Carolina University,2/12/24,31042,Robert F. Kennedy,9.7
+1158,85971,East Carolina University,2/12/24,31097,Cornel West,1.7
+1159,85971,East Carolina University,2/12/24,31116,Jill Stein,0.4
+1160,85960,Beacon/Shaw,2/12/24,19368,Joe Biden,45.0
+1161,85960,Beacon/Shaw,2/12/24,16651,Donald Trump,47.0
+1162,85960,Beacon/Shaw,2/12/24,19368,Joe Biden,37.0
+1163,85960,Beacon/Shaw,2/12/24,16651,Donald Trump,42.0
+1164,85960,Beacon/Shaw,2/12/24,31042,Robert F. Kennedy,11.0
+1165,85960,Beacon/Shaw,2/12/24,31097,Cornel West,2.0
+1166,85960,Beacon/Shaw,2/12/24,31116,Jill Stein,3.0
+1167,85960,Beacon/Shaw,2/12/24,19368,Joe Biden,42.0
+1168,85960,Beacon/Shaw,2/12/24,16640,Nikki Haley,43.0
+1169,85960,Beacon/Shaw,2/12/24,19368,Joe Biden,35.0
+1170,85960,Beacon/Shaw,2/12/24,16640,Nikki Haley,26.0
+1171,85960,Beacon/Shaw,2/12/24,31042,Robert F. Kennedy,23.0
+1172,85960,Beacon/Shaw,2/12/24,31097,Cornel West,3.0
+1173,85960,Beacon/Shaw,2/12/24,31116,Jill Stein,3.0
+1174,85961,Beacon/Shaw,2/12/24,19368,Joe Biden,45.0
+1175,85961,Beacon/Shaw,2/12/24,16651,Donald Trump,50.0
+1176,85961,Beacon/Shaw,2/12/24,19368,Joe Biden,37.0
+1177,85961,Beacon/Shaw,2/12/24,16651,Donald Trump,46.0
+1178,85961,Beacon/Shaw,2/12/24,31042,Robert F. Kennedy,8.0
+1179,85961,Beacon/Shaw,2/12/24,31097,Cornel West,1.0
+1180,85961,Beacon/Shaw,2/12/24,31116,Jill Stein,2.0
+1181,85961,Beacon/Shaw,2/12/24,19368,Joe Biden,41.0
+1182,85961,Beacon/Shaw,2/12/24,16640,Nikki Haley,46.0
+1183,85961,Beacon/Shaw,2/12/24,19368,Joe Biden,33.0
+1184,85961,Beacon/Shaw,2/12/24,16640,Nikki Haley,31.0
+1185,85961,Beacon/Shaw,2/12/24,31042,Robert F. Kennedy,19.0
+1186,85961,Beacon/Shaw,2/12/24,31097,Cornel West,2.0
+1187,85961,Beacon/Shaw,2/12/24,31116,Jill Stein,2.0
+1188,86065,YouGov,2/12/24,19368,Joe Biden,36.0
+1189,86065,YouGov,2/12/24,16651,Donald Trump,45.0
+1190,86065,YouGov,2/12/24,31042,Robert F. Kennedy,6.0
+1191,86065,YouGov,2/12/24,31097,Cornel West,3.0
+1192,86065,YouGov,2/12/24,31116,Jill Stein,2.0
+1193,86065,YouGov,2/12/24,19368,Joe Biden,41.0
+1194,86065,YouGov,2/12/24,16651,Donald Trump,48.0
+1195,86065,YouGov,2/12/24,19368,Joe Biden,40.0
+1196,86065,YouGov,2/12/24,16640,Nikki Haley,31.0
+1197,85921,Morning Consult,2/11/24,19368,Joe Biden,42.0
+1198,85921,Morning Consult,2/11/24,16651,Donald Trump,43.0
+1199,85994,The Citadel,2/11/24,19368,Joe Biden,35.0
+1200,85994,The Citadel,2/11/24,16651,Donald Trump,54.0
+1201,85994,The Citadel,2/11/24,19368,Joe Biden,28.0
+1202,85994,The Citadel,2/11/24,16640,Nikki Haley,50.0
+1203,85994,The Citadel,2/11/24,19368,Joe Biden,32.0
+1204,85994,The Citadel,2/11/24,16651,Donald Trump,49.0
+1205,85994,The Citadel,2/11/24,31042,Robert F. Kennedy,9.0
+1206,85994,The Citadel,2/11/24,31018,"Joe Manchin, III",4.0
+1207,85994,The Citadel,2/11/24,31116,Jill Stein,3.0
+1208,85994,The Citadel,2/11/24,19368,Joe Biden,25.0
+1209,85994,The Citadel,2/11/24,16640,Nikki Haley,41.0
+1210,85994,The Citadel,2/11/24,31042,Robert F. Kennedy,20.0
+1211,85994,The Citadel,2/11/24,31018,"Joe Manchin, III",4.0
+1212,85994,The Citadel,2/11/24,31116,Jill Stein,3.0
+1213,85933,Patriot Polling,2/10/24,19368,Joe Biden,45.8
+1214,85933,Patriot Polling,2/10/24,16651,Donald Trump,47.5
+1215,85966,Redfield & Wilton Strategies,2/10/24,19368,Joe Biden,41.0
+1216,85966,Redfield & Wilton Strategies,2/10/24,16651,Donald Trump,42.0
+1217,85966,Redfield & Wilton Strategies,2/10/24,31042,Robert F. Kennedy,8.0
+1218,85922,Morning Consult,2/10/24,19368,Joe Biden,42.0
+1219,85922,Morning Consult,2/10/24,16651,Donald Trump,44.0
+1220,85939,Winthrop U.,2/10/24,19368,Joe Biden,35.0
+1221,85939,Winthrop U.,2/10/24,16651,Donald Trump,50.0
+1222,85939,Winthrop U.,2/10/24,19368,Joe Biden,29.0
+1223,85939,Winthrop U.,2/10/24,16640,Nikki Haley,47.0
+1224,85923,Morning Consult,2/9/24,19368,Joe Biden,41.0
+1225,85923,Morning Consult,2/9/24,16651,Donald Trump,44.0
+1226,85913,YouGov,2/9/24,19368,Joe Biden,44.0
+1227,85913,YouGov,2/9/24,16651,Donald Trump,45.0
+1228,85914,Chism Strategies,2/8/24,19368,Joe Biden,32.0
+1229,85914,Chism Strategies,2/8/24,16651,Donald Trump,40.0
+1230,85924,Morning Consult,2/8/24,19368,Joe Biden,41.0
+1231,85924,Morning Consult,2/8/24,16651,Donald Trump,45.0
+1232,85964,National Public Affairs,2/8/24,19368,Joe Biden,35.0
+1233,85964,National Public Affairs,2/8/24,16651,Donald Trump,42.0
+1234,85964,National Public Affairs,2/8/24,31042,Robert F. Kennedy,6.0
+1235,85964,National Public Affairs,2/8/24,31018,"Joe Manchin, III",4.0
+1236,85964,National Public Affairs,2/8/24,31097,Cornel West,3.0
+1237,85965,Cygnal,2/8/24,19368,Joe Biden,45.8
+1238,85965,Cygnal,2/8/24,16651,Donald Trump,47.0
+1239,85965,Cygnal,2/8/24,19368,Joe Biden,39.1
+1240,85965,Cygnal,2/8/24,16651,Donald Trump,40.8
+1241,85965,Cygnal,2/8/24,31042,Robert F. Kennedy,13.0
+1242,86163,Change Research,2/8/24,19368,Joe Biden,40.0
+1243,86163,Change Research,2/8/24,16651,Donald Trump,47.0
+1244,86163,Change Research,2/8/24,19368,Joe Biden,33.0
+1245,86163,Change Research,2/8/24,16651,Donald Trump,41.0
+1246,85936,Florida Atlantic University/Mainstreet Research,2/8/24,19368,Joe Biden,34.3
+1247,85936,Florida Atlantic University/Mainstreet Research,2/8/24,16651,Donald Trump,51.6
+1248,85936,Florida Atlantic University/Mainstreet Research,2/8/24,19368,Joe Biden,35.9
+1249,85936,Florida Atlantic University/Mainstreet Research,2/8/24,16651,Donald Trump,53.6
+1250,85925,Morning Consult,2/7/24,19368,Joe Biden,40.0
+1251,85925,Morning Consult,2/7/24,16651,Donald Trump,46.0
+1252,85918,AtlasIntel,2/7/24,19368,Joe Biden,42.3
+1253,85918,AtlasIntel,2/7/24,16651,Donald Trump,43.9
+1254,85918,AtlasIntel,2/7/24,31042,Robert F. Kennedy,5.2
+1255,85918,AtlasIntel,2/7/24,31097,Cornel West,0.1
+1256,85918,AtlasIntel,2/7/24,19368,Joe Biden,41.0
+1257,85918,AtlasIntel,2/7/24,16640,Nikki Haley,23.0
+1258,85918,AtlasIntel,2/7/24,31042,Robert F. Kennedy,11.4
+1259,85918,AtlasIntel,2/7/24,31097,Cornel West,0.5
+1260,85918,AtlasIntel,2/7/24,16660,Michelle Obama,41.6
+1261,85918,AtlasIntel,2/7/24,16651,Donald Trump,39.0
+1262,85918,AtlasIntel,2/7/24,31042,Robert F. Kennedy,5.1
+1263,85918,AtlasIntel,2/7/24,31097,Cornel West,0.0
+1264,86276,Ipsos,2/7/24,19368,Joe Biden,35.0
+1265,86276,Ipsos,2/7/24,16651,Donald Trump,33.0
+1266,86276,Ipsos,2/7/24,19368,Joe Biden,26.0
+1267,86276,Ipsos,2/7/24,16640,Nikki Haley,30.0
+1268,86144,Kaiser Family Foundation,2/7/24,19368,Joe Biden,37.0
+1269,86144,Kaiser Family Foundation,2/7/24,16651,Donald Trump,41.0
+1270,85859,YouGov,2/6/24,19368,Joe Biden,43.0
+1271,85859,YouGov,2/6/24,16651,Donald Trump,44.0
+1272,85895,Morning Consult,2/6/24,19368,Joe Biden,40.0
+1273,85895,Morning Consult,2/6/24,16651,Donald Trump,45.0
+1274,85896,Morning Consult,2/5/24,19368,Joe Biden,41.0
+1275,85896,Morning Consult,2/5/24,16651,Donald Trump,44.0
+1276,85862,Suffolk,2/5/24,19368,Joe Biden,45.4
+1277,85862,Suffolk,2/5/24,16651,Donald Trump,25.5
+1278,85862,Suffolk,2/5/24,31042,Robert F. Kennedy,8.6
+1279,85862,Suffolk,2/5/24,31097,Cornel West,2.2
+1280,85897,Morning Consult,2/4/24,19368,Joe Biden,41.0
+1281,85897,Morning Consult,2/4/24,16651,Donald Trump,44.0
+1282,86161,YouGov,2/4/24,19368,Joe Biden,42.0
+1283,86161,YouGov,2/4/24,16651,Donald Trump,44.0
+1284,85907,North Star Opinion Research,2/4/24,19368,Joe Biden,32.0
+1285,85907,North Star Opinion Research,2/4/24,16651,Donald Trump,39.0
+1286,85907,North Star Opinion Research,2/4/24,31042,Robert F. Kennedy,16.0
+1287,86178,Morning Consult,2/4/24,19368,Joe Biden,42.0
+1288,86178,Morning Consult,2/4/24,16651,Donald Trump,44.0
+1289,85911,Florida Atlantic University/Mainstreet Research,2/3/24,19368,Joe Biden,37.1
+1290,85911,Florida Atlantic University/Mainstreet Research,2/3/24,16651,Donald Trump,41.2
+1291,85911,Florida Atlantic University/Mainstreet Research,2/3/24,19368,Joe Biden,40.5
+1292,85911,Florida Atlantic University/Mainstreet Research,2/3/24,16651,Donald Trump,44.5
+1293,85865,Redfield & Wilton Strategies,2/3/24,19368,Joe Biden,35.0
+1294,85865,Redfield & Wilton Strategies,2/3/24,16651,Donald Trump,44.0
+1295,85865,Redfield & Wilton Strategies,2/3/24,31042,Robert F. Kennedy,6.0
+1296,85865,Redfield & Wilton Strategies,2/3/24,31097,Cornel West,1.0
+1297,85865,Redfield & Wilton Strategies,2/3/24,31116,Jill Stein,1.0
+1298,85865,Redfield & Wilton Strategies,2/3/24,19368,Joe Biden,32.0
+1299,85865,Redfield & Wilton Strategies,2/3/24,16640,Nikki Haley,30.0
+1300,85865,Redfield & Wilton Strategies,2/3/24,31042,Robert F. Kennedy,14.0
+1301,85865,Redfield & Wilton Strategies,2/3/24,31097,Cornel West,0.0
+1302,85865,Redfield & Wilton Strategies,2/3/24,31116,Jill Stein,0.0
+1303,85898,Morning Consult,2/3/24,19368,Joe Biden,41.0
+1304,85898,Morning Consult,2/3/24,16651,Donald Trump,44.0
+1305,85864,TIPP,2/2/24,19368,Joe Biden,41.0
+1306,85864,TIPP,2/2/24,16651,Donald Trump,43.0
+1307,85864,TIPP,2/2/24,19368,Joe Biden,34.0
+1308,85864,TIPP,2/2/24,16651,Donald Trump,40.0
+1309,85864,TIPP,2/2/24,31042,Robert F. Kennedy,8.0
+1310,85864,TIPP,2/2/24,31097,Cornel West,2.0
+1311,85864,TIPP,2/2/24,31116,Jill Stein,1.0
+1312,85864,TIPP,2/2/24,31061,Lars Mapstead,1.0
+1313,85864,TIPP,2/2/24,31018,"Joe Manchin, III",3.0
+1314,85890,SurveyUSA,2/2/24,19368,Joe Biden,44.0
+1315,85890,SurveyUSA,2/2/24,16651,Donald Trump,49.0
+1316,85890,SurveyUSA,2/2/24,19368,Joe Biden,40.0
+1317,85890,SurveyUSA,2/2/24,16651,Donald Trump,45.0
+1318,85890,SurveyUSA,2/2/24,31272,Nikki Haley,13.0
+1319,85890,SurveyUSA,2/2/24,19368,Joe Biden,36.0
+1320,85890,SurveyUSA,2/2/24,16651,Donald Trump,43.0
+1321,85890,SurveyUSA,2/2/24,31272,Nikki Haley,11.0
+1322,85890,SurveyUSA,2/2/24,31042,Robert F. Kennedy,9.0
+1323,85890,SurveyUSA,2/2/24,19368,Joe Biden,36.0
+1324,85890,SurveyUSA,2/2/24,16651,Donald Trump,41.0
+1325,85890,SurveyUSA,2/2/24,31272,Nikki Haley,10.0
+1326,85890,SurveyUSA,2/2/24,31042,Robert F. Kennedy,10.0
+1327,85890,SurveyUSA,2/2/24,31097,Cornel West,1.0
+1328,85899,Morning Consult,2/2/24,19368,Joe Biden,42.0
+1329,85899,Morning Consult,2/2/24,16651,Donald Trump,44.0
+1330,85940,Gonzales Research & Media Services,2/2/24,19368,Joe Biden,53.0
+1331,85940,Gonzales Research & Media Services,2/2/24,16651,Donald Trump,32.0
+1332,85940,Gonzales Research & Media Services,2/2/24,19368,Joe Biden,50.0
+1333,85940,Gonzales Research & Media Services,2/2/24,16640,Nikki Haley,36.0
+1334,85940,Gonzales Research & Media Services,2/2/24,19368,Joe Biden,45.0
+1335,85940,Gonzales Research & Media Services,2/2/24,16651,Donald Trump,28.0
+1336,85940,Gonzales Research & Media Services,2/2/24,31042,Robert F. Kennedy,18.0
+1337,85900,Morning Consult,2/1/24,19368,Joe Biden,41.0
+1338,85900,Morning Consult,2/1/24,16651,Donald Trump,45.0
+1339,85834,J.L. Partners,2/1/24,19368,Joe Biden,41.0
+1340,85834,J.L. Partners,2/1/24,16651,Donald Trump,45.0
+1341,85861,Marist,2/1/24,19368,Joe Biden,48.0
+1342,85861,Marist,2/1/24,16651,Donald Trump,47.0
+1343,85861,Marist,2/1/24,19368,Joe Biden,46.0
+1344,85861,Marist,2/1/24,16640,Nikki Haley,45.0
+1345,85901,Morning Consult,1/31/24,19368,Joe Biden,41.0
+1346,85901,Morning Consult,1/31/24,16651,Donald Trump,45.0
+1347,85843,Meredith College,1/31/24,19368,Joe Biden,39.0
+1348,85843,Meredith College,1/31/24,16651,Donald Trump,44.0
+1349,85835,McLaughlin,1/31/24,19368,Joe Biden,43.0
+1350,85835,McLaughlin,1/31/24,16651,Donald Trump,47.0
+1351,85835,McLaughlin,1/31/24,16661,Kamala Harris,42.0
+1352,85835,McLaughlin,1/31/24,16651,Donald Trump,50.0
+1353,85835,McLaughlin,1/31/24,19368,Joe Biden,34.0
+1354,85835,McLaughlin,1/31/24,16651,Donald Trump,39.0
+1355,85835,McLaughlin,1/31/24,31042,Robert F. Kennedy,9.0
+1356,85835,McLaughlin,1/31/24,31097,Cornel West,2.0
+1357,85835,McLaughlin,1/31/24,31018,"Joe Manchin, III",2.0
+1358,85835,McLaughlin,1/31/24,31116,Jill Stein,2.0
+1359,85891,Marquette Law School,1/31/24,19368,Joe Biden,49.0
+1360,85891,Marquette Law School,1/31/24,16651,Donald Trump,49.0
+1361,85891,Marquette Law School,1/31/24,19368,Joe Biden,49.0
+1362,85891,Marquette Law School,1/31/24,16651,Donald Trump,50.0
+1363,85891,Marquette Law School,1/31/24,19368,Joe Biden,41.0
+1364,85891,Marquette Law School,1/31/24,16640,Nikki Haley,57.0
+1365,85891,Marquette Law School,1/31/24,19368,Joe Biden,42.0
+1366,85891,Marquette Law School,1/31/24,16640,Nikki Haley,57.0
+1367,85891,Marquette Law School,1/31/24,19368,Joe Biden,37.0
+1368,85891,Marquette Law School,1/31/24,16651,Donald Trump,40.0
+1369,85891,Marquette Law School,1/31/24,31042,Robert F. Kennedy,16.0
+1370,85891,Marquette Law School,1/31/24,31097,Cornel West,2.0
+1371,85891,Marquette Law School,1/31/24,31116,Jill Stein,4.0
+1372,85891,Marquette Law School,1/31/24,19368,Joe Biden,39.0
+1373,85891,Marquette Law School,1/31/24,16651,Donald Trump,41.0
+1374,85891,Marquette Law School,1/31/24,31042,Robert F. Kennedy,13.0
+1375,85891,Marquette Law School,1/31/24,31097,Cornel West,2.0
+1376,85891,Marquette Law School,1/31/24,31116,Jill Stein,4.0
+1377,85772,YouGov,1/30/24,19368,Joe Biden,43.0
+1378,85772,YouGov,1/30/24,16651,Donald Trump,42.0
+1379,85902,Morning Consult,1/30/24,19368,Joe Biden,41.0
+1380,85902,Morning Consult,1/30/24,16651,Donald Trump,45.0
+1381,85781,Civiqs,1/30/24,19368,Joe Biden,44.0
+1382,85781,Civiqs,1/30/24,16651,Donald Trump,44.0
+1383,85827,Beacon/Shaw,1/30/24,19368,Joe Biden,39.0
+1384,85827,Beacon/Shaw,1/30/24,16651,Donald Trump,42.0
+1385,85827,Beacon/Shaw,1/30/24,31042,Robert F. Kennedy,7.0
+1386,85827,Beacon/Shaw,1/30/24,31097,Cornel West,1.0
+1387,85827,Beacon/Shaw,1/30/24,31116,Jill Stein,2.0
+1388,85827,Beacon/Shaw,1/30/24,19368,Joe Biden,47.0
+1389,85827,Beacon/Shaw,1/30/24,16651,Donald Trump,47.0
+1390,85827,Beacon/Shaw,1/30/24,19368,Joe Biden,37.0
+1391,85827,Beacon/Shaw,1/30/24,16640,Nikki Haley,28.0
+1392,85827,Beacon/Shaw,1/30/24,31042,Robert F. Kennedy,16.0
+1393,85827,Beacon/Shaw,1/30/24,31097,Cornel West,2.0
+1394,85827,Beacon/Shaw,1/30/24,31116,Jill Stein,2.0
+1395,85828,Beacon/Shaw,1/30/24,19368,Joe Biden,37.0
+1396,85828,Beacon/Shaw,1/30/24,16651,Donald Trump,45.0
+1397,85828,Beacon/Shaw,1/30/24,31042,Robert F. Kennedy,8.0
+1398,85828,Beacon/Shaw,1/30/24,31097,Cornel West,3.0
+1399,85828,Beacon/Shaw,1/30/24,31116,Jill Stein,1.0
+1400,85828,Beacon/Shaw,1/30/24,19368,Joe Biden,43.0
+1401,85828,Beacon/Shaw,1/30/24,16651,Donald Trump,51.0
+1402,85828,Beacon/Shaw,1/30/24,19368,Joe Biden,35.0
+1403,85828,Beacon/Shaw,1/30/24,16640,Nikki Haley,29.0
+1404,85828,Beacon/Shaw,1/30/24,31042,Robert F. Kennedy,18.0
+1405,85828,Beacon/Shaw,1/30/24,31097,Cornel West,3.0
+1406,85828,Beacon/Shaw,1/30/24,31116,Jill Stein,1.0
+1407,85839,Hart/POS,1/30/24,19368,Joe Biden,42.0
+1408,85839,Hart/POS,1/30/24,16651,Donald Trump,47.0
+1409,85839,Hart/POS,1/30/24,31042,Robert F. Kennedy,1.0
+1410,85839,Hart/POS,1/30/24,19368,Joe Biden,36.0
+1411,85839,Hart/POS,1/30/24,16640,Nikki Haley,45.0
+1412,85839,Hart/POS,1/30/24,31042,Robert F. Kennedy,1.0
+1413,85826,SSRS,1/30/24,19368,Joe Biden,45.0
+1414,85826,SSRS,1/30/24,16651,Donald Trump,49.0
+1415,85826,SSRS,1/30/24,19368,Joe Biden,39.0
+1416,85826,SSRS,1/30/24,16640,Nikki Haley,52.0
+1417,85842,YouGov,1/30/24,19368,Joe Biden,39.0
+1418,85842,YouGov,1/30/24,16651,Donald Trump,43.0
+1419,85842,YouGov,1/30/24,31042,Robert F. Kennedy,9.0
+1420,85837,YouGov,1/30/24,19368,Joe Biden,44.0
+1421,85837,YouGov,1/30/24,16651,Donald Trump,45.0
+1422,85837,YouGov,1/30/24,19368,Joe Biden,39.0
+1423,85837,YouGov,1/30/24,16640,Nikki Haley,38.0
+1424,85903,Morning Consult,1/29/24,19368,Joe Biden,42.0
+1425,85903,Morning Consult,1/29/24,16651,Donald Trump,44.0
+1426,85742,Emerson,1/29/24,19368,Joe Biden,44.6
+1427,85742,Emerson,1/29/24,16651,Donald Trump,45.5
+1428,85742,Emerson,1/29/24,19368,Joe Biden,36.7
+1429,85742,Emerson,1/29/24,16640,Nikki Haley,38.2
+1430,85742,Emerson,1/29/24,19368,Joe Biden,39.2
+1431,85742,Emerson,1/29/24,16651,Donald Trump,41.1
+1432,85742,Emerson,1/29/24,31042,Robert F. Kennedy,4.9
+1433,85742,Emerson,1/29/24,31116,Jill Stein,0.8
+1434,85742,Emerson,1/29/24,31097,Cornel West,0.8
+1435,85742,Emerson,1/29/24,19368,Joe Biden,36.9
+1436,85742,Emerson,1/29/24,16651,Donald Trump,41.7
+1437,85742,Emerson,1/29/24,31272,Nikki Haley,11.8
+1438,85761,YouGov,1/29/24,19368,Joe Biden,44.0
+1439,85761,YouGov,1/29/24,16651,Donald Trump,45.0
+1440,85761,YouGov,1/29/24,19368,Joe Biden,41.0
+1441,85761,YouGov,1/29/24,16651,Donald Trump,42.0
+1442,85761,YouGov,1/29/24,19368,Joe Biden,40.0
+1443,85761,YouGov,1/29/24,16640,Nikki Haley,35.0
+1444,85779,Quinnipiac,1/29/24,19368,Joe Biden,50.0
+1445,85779,Quinnipiac,1/29/24,16651,Donald Trump,44.0
+1446,85779,Quinnipiac,1/29/24,19368,Joe Biden,39.0
+1447,85779,Quinnipiac,1/29/24,16651,Donald Trump,37.0
+1448,85779,Quinnipiac,1/29/24,31042,Robert F. Kennedy,14.0
+1449,85779,Quinnipiac,1/29/24,31097,Cornel West,3.0
+1450,85779,Quinnipiac,1/29/24,31116,Jill Stein,2.0
+1451,85779,Quinnipiac,1/29/24,19368,Joe Biden,42.0
+1452,85779,Quinnipiac,1/29/24,16640,Nikki Haley,47.0
+1453,85779,Quinnipiac,1/29/24,19368,Joe Biden,36.0
+1454,85779,Quinnipiac,1/29/24,16640,Nikki Haley,29.0
+1455,85779,Quinnipiac,1/29/24,31042,Robert F. Kennedy,21.0
+1456,85779,Quinnipiac,1/29/24,31097,Cornel West,3.0
+1457,85779,Quinnipiac,1/29/24,31116,Jill Stein,2.0
+1458,85798,SurveyUSA,1/29/24,19368,Joe Biden,42.0
+1459,85798,SurveyUSA,1/29/24,16651,Donald Trump,39.0
+1460,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,19368,Joe Biden,53.0
+1461,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,16651,Donald Trump,25.0
+1462,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,31042,Robert F. Kennedy,7.0
+1463,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,31097,Cornel West,3.0
+1464,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,31061,Lars Mapstead,0.0
+1465,85801,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24,31116,Jill Stein,1.0
+1466,85726,Morning Consult,1/28/24,19368,Joe Biden,42.0
+1467,85726,Morning Consult,1/28/24,16651,Donald Trump,44.0
+1468,85762,Leger,1/28/24,19368,Joe Biden,36.0
+1469,85762,Leger,1/28/24,16651,Donald Trump,37.0
+1470,85846,Big Village,1/28/24,19368,Joe Biden,33.7
+1471,85846,Big Village,1/28/24,16651,Donald Trump,36.3
+1472,85846,Big Village,1/28/24,31042,Robert F. Kennedy,9.8
+1473,85846,Big Village,1/28/24,31097,Cornel West,1.0
+1474,85846,Big Village,1/28/24,19368,Joe Biden,38.1
+1475,85846,Big Village,1/28/24,16651,Donald Trump,37.6
+1476,85846,Big Village,1/28/24,31042,Robert F. Kennedy,10.4
+1477,85846,Big Village,1/28/24,31097,Cornel West,1.3
+1478,85846,Big Village,1/28/24,19368,Joe Biden,41.5
+1479,85846,Big Village,1/28/24,16651,Donald Trump,38.8
+1480,85846,Big Village,1/28/24,31042,Robert F. Kennedy,10.0
+1481,85846,Big Village,1/28/24,31097,Cornel West,0.8
+1482,85825,Emerson,1/28/24,19368,Joe Biden,31.9
+1483,85825,Emerson,1/28/24,16651,Donald Trump,49.4
+1484,85829,Emerson,1/28/24,19368,Joe Biden,41.0
+1485,85829,Emerson,1/28/24,16651,Donald Trump,35.0
+1486,85830,Emerson,1/28/24,19368,Joe Biden,26.4
+1487,85830,Emerson,1/28/24,16651,Donald Trump,55.3
+1488,85892,Global Strategy Group,1/28/24,19368,Joe Biden,49.0
+1489,85892,Global Strategy Group,1/28/24,16651,Donald Trump,41.0
+1490,85797,Franklin and Marshall College,1/28/24,19368,Joe Biden,43.0
+1491,85797,Franklin and Marshall College,1/28/24,16651,Donald Trump,42.0
+1492,85797,Franklin and Marshall College,1/28/24,19368,Joe Biden,42.0
+1493,85797,Franklin and Marshall College,1/28/24,16651,Donald Trump,37.0
+1494,85797,Franklin and Marshall College,1/28/24,31042,Robert F. Kennedy,8.0
+1495,85797,Franklin and Marshall College,1/28/24,31116,Jill Stein,2.0
+1496,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,40.0
+1497,86061,Lord Ashcroft Polls,1/28/24,16651,Donald Trump,40.0
+1498,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,38.0
+1499,86061,Lord Ashcroft Polls,1/28/24,16640,Nikki Haley,27.0
+1500,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,35.0
+1501,86061,Lord Ashcroft Polls,1/28/24,16651,Donald Trump,39.0
+1502,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,37.0
+1503,86061,Lord Ashcroft Polls,1/28/24,16646,Ron DeSantis,28.0
+1504,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,42.0
+1505,86061,Lord Ashcroft Polls,1/28/24,16646,Ron DeSantis,31.0
+1506,86061,Lord Ashcroft Polls,1/28/24,19368,Joe Biden,34.0
+1507,86061,Lord Ashcroft Polls,1/28/24,16640,Nikki Haley,24.0
+1508,85727,Morning Consult,1/27/24,19368,Joe Biden,41.0
+1509,85727,Morning Consult,1/27/24,16651,Donald Trump,44.0
+1510,85728,Morning Consult,1/26/24,19368,Joe Biden,42.0
+1511,85728,Morning Consult,1/26/24,16651,Donald Trump,44.0
+1512,85729,Morning Consult,1/25/24,19368,Joe Biden,42.0
+1513,85729,Morning Consult,1/25/24,16651,Donald Trump,44.0
+1514,85794,Emerson,1/25/24,19368,Joe Biden,35.8
+1515,85794,Emerson,1/25/24,16651,Donald Trump,46.8
+1516,86186,Public Opinion Strategies,1/25/24,19368,Joe Biden,42.0
+1517,86186,Public Opinion Strategies,1/25/24,16651,Donald Trump,48.0
+1518,85702,Ipsos,1/24/24,19368,Joe Biden,34.0
+1519,85702,Ipsos,1/24/24,16651,Donald Trump,40.0
+1520,85702,Ipsos,1/24/24,19368,Joe Biden,30.0
+1521,85702,Ipsos,1/24/24,16651,Donald Trump,36.0
+1522,85702,Ipsos,1/24/24,31042,Robert F. Kennedy,8.0
+1523,85702,Ipsos,1/24/24,31245,Dean Phillips,2.0
+1524,85702,Ipsos,1/24/24,19368,Joe Biden,38.0
+1525,85702,Ipsos,1/24/24,16651,Donald Trump,43.0
+1526,85702,Ipsos,1/24/24,19368,Joe Biden,34.0
+1527,85702,Ipsos,1/24/24,16651,Donald Trump,39.0
+1528,85702,Ipsos,1/24/24,31042,Robert F. Kennedy,8.0
+1529,85702,Ipsos,1/24/24,31245,Dean Phillips,2.0
+1530,85730,Morning Consult,1/24/24,19368,Joe Biden,42.0
+1531,85730,Morning Consult,1/24/24,16651,Donald Trump,45.0
+1532,85736,YouGov,1/24/24,19368,Joe Biden,40.0
+1533,85736,YouGov,1/24/24,16651,Donald Trump,49.0
+1534,85736,YouGov,1/24/24,31116,Jill Stein,3.0
+1535,85736,YouGov,1/24/24,16661,Kamala Harris,39.0
+1536,85736,YouGov,1/24/24,16651,Donald Trump,52.0
+1537,85736,YouGov,1/24/24,19368,Joe Biden,39.0
+1538,85736,YouGov,1/24/24,16640,Nikki Haley,43.0
+1539,85699,YouGov,1/23/24,19368,Joe Biden,43.0
+1540,85699,YouGov,1/23/24,16651,Donald Trump,44.0
+1541,85731,Morning Consult,1/23/24,19368,Joe Biden,40.0
+1542,85731,Morning Consult,1/23/24,16651,Donald Trump,45.0
+1543,85818,Clarity,1/23/24,19368,Joe Biden,43.0
+1544,85818,Clarity,1/23/24,16651,Donald Trump,47.0
+1545,85818,Clarity,1/23/24,19368,Joe Biden,45.0
+1546,85818,Clarity,1/23/24,16646,Ron DeSantis,38.0
+1547,85818,Clarity,1/23/24,19368,Joe Biden,40.0
+1548,85818,Clarity,1/23/24,16640,Nikki Haley,38.0
+1549,86245,Focaldata,1/23/24,19368,Joe Biden,41.0
+1550,86245,Focaldata,1/23/24,16651,Donald Trump,43.0
+1551,86245,Focaldata,1/23/24,19368,Joe Biden,50.6
+1552,86245,Focaldata,1/23/24,16651,Donald Trump,49.4
+1553,86246,Focaldata,1/23/24,19368,Joe Biden,38.0
+1554,86246,Focaldata,1/23/24,16651,Donald Trump,43.0
+1555,86246,Focaldata,1/23/24,19368,Joe Biden,49.3
+1556,86246,Focaldata,1/23/24,16651,Donald Trump,50.7
+1557,86247,Focaldata,1/23/24,19368,Joe Biden,36.0
+1558,86247,Focaldata,1/23/24,16651,Donald Trump,45.0
+1559,86247,Focaldata,1/23/24,19368,Joe Biden,48.3
+1560,86247,Focaldata,1/23/24,16651,Donald Trump,51.7
+1561,86248,Focaldata,1/23/24,19368,Joe Biden,38.0
+1562,86248,Focaldata,1/23/24,16651,Donald Trump,46.0
+1563,86248,Focaldata,1/23/24,19368,Joe Biden,48.6
+1564,86248,Focaldata,1/23/24,16651,Donald Trump,51.4
+1565,86249,Focaldata,1/23/24,19368,Joe Biden,39.0
+1566,86249,Focaldata,1/23/24,16651,Donald Trump,43.0
+1567,86249,Focaldata,1/23/24,19368,Joe Biden,49.6
+1568,86249,Focaldata,1/23/24,16651,Donald Trump,50.4
+1569,86250,Focaldata,1/23/24,19368,Joe Biden,40.0
+1570,86250,Focaldata,1/23/24,16651,Donald Trump,43.0
+1571,86250,Focaldata,1/23/24,19368,Joe Biden,49.0
+1572,86250,Focaldata,1/23/24,16651,Donald Trump,51.0
+1573,85732,Morning Consult,1/22/24,19368,Joe Biden,40.0
+1574,85732,Morning Consult,1/22/24,16651,Donald Trump,45.0
+1575,85689,Bullfinch,1/22/24,19368,Joe Biden,42.0
+1576,85689,Bullfinch,1/22/24,16651,Donald Trump,47.0
+1577,85678,Morning Consult,1/21/24,19368,Joe Biden,40.0
+1578,85678,Morning Consult,1/21/24,16651,Donald Trump,45.0
+1579,85700,HarrisX,1/21/24,19368,Joe Biden,41.0
+1580,85700,HarrisX,1/21/24,16651,Donald Trump,48.0
+1581,85700,HarrisX,1/21/24,19368,Joe Biden,33.0
+1582,85700,HarrisX,1/21/24,16651,Donald Trump,42.0
+1583,85700,HarrisX,1/21/24,31042,Robert F. Kennedy,12.0
+1584,85751,Dan Jones,1/21/24,19368,Joe Biden,33.0
+1585,85751,Dan Jones,1/21/24,16651,Donald Trump,43.0
+1586,85765,Morning Consult,1/21/24,19368,Joe Biden,35.0
+1587,85765,Morning Consult,1/21/24,16651,Donald Trump,43.0
+1588,85765,Morning Consult,1/21/24,31042,Robert F. Kennedy,10.0
+1589,85765,Morning Consult,1/21/24,31097,Cornel West,1.0
+1590,85765,Morning Consult,1/21/24,31116,Jill Stein,1.0
+1591,85765,Morning Consult,1/21/24,19368,Joe Biden,44.0
+1592,85765,Morning Consult,1/21/24,16651,Donald Trump,47.0
+1593,85766,Morning Consult,1/21/24,19368,Joe Biden,37.0
+1594,85766,Morning Consult,1/21/24,16651,Donald Trump,44.0
+1595,85766,Morning Consult,1/21/24,31042,Robert F. Kennedy,8.0
+1596,85766,Morning Consult,1/21/24,31097,Cornel West,1.0
+1597,85766,Morning Consult,1/21/24,31116,Jill Stein,1.0
+1598,85766,Morning Consult,1/21/24,19368,Joe Biden,41.0
+1599,85766,Morning Consult,1/21/24,16651,Donald Trump,49.0
+1600,85767,Morning Consult,1/21/24,19368,Joe Biden,37.0
+1601,85767,Morning Consult,1/21/24,16651,Donald Trump,43.0
+1602,85767,Morning Consult,1/21/24,31042,Robert F. Kennedy,8.0
+1603,85767,Morning Consult,1/21/24,31097,Cornel West,1.0
+1604,85767,Morning Consult,1/21/24,31116,Jill Stein,1.0
+1605,85767,Morning Consult,1/21/24,19368,Joe Biden,42.0
+1606,85767,Morning Consult,1/21/24,16651,Donald Trump,47.0
+1607,85768,Morning Consult,1/21/24,19368,Joe Biden,31.0
+1608,85768,Morning Consult,1/21/24,16651,Donald Trump,43.0
+1609,85768,Morning Consult,1/21/24,31042,Robert F. Kennedy,12.0
+1610,85768,Morning Consult,1/21/24,31097,Cornel West,1.0
+1611,85768,Morning Consult,1/21/24,31116,Jill Stein,2.0
+1612,85768,Morning Consult,1/21/24,19368,Joe Biden,40.0
+1613,85768,Morning Consult,1/21/24,16651,Donald Trump,48.0
+1614,85769,Morning Consult,1/21/24,19368,Joe Biden,32.0
+1615,85769,Morning Consult,1/21/24,16651,Donald Trump,45.0
+1616,85769,Morning Consult,1/21/24,31042,Robert F. Kennedy,9.0
+1617,85769,Morning Consult,1/21/24,31097,Cornel West,1.0
+1618,85769,Morning Consult,1/21/24,31116,Jill Stein,1.0
+1619,85769,Morning Consult,1/21/24,19368,Joe Biden,39.0
+1620,85769,Morning Consult,1/21/24,16651,Donald Trump,49.0
+1621,85770,Morning Consult,1/21/24,19368,Joe Biden,40.0
+1622,85770,Morning Consult,1/21/24,16651,Donald Trump,43.0
+1623,85770,Morning Consult,1/21/24,31042,Robert F. Kennedy,7.0
+1624,85770,Morning Consult,1/21/24,31097,Cornel West,1.0
+1625,85770,Morning Consult,1/21/24,31116,Jill Stein,1.0
+1626,85770,Morning Consult,1/21/24,19368,Joe Biden,45.0
+1627,85770,Morning Consult,1/21/24,16651,Donald Trump,48.0
+1628,85771,Morning Consult,1/21/24,19368,Joe Biden,35.0
+1629,85771,Morning Consult,1/21/24,16651,Donald Trump,43.0
+1630,85771,Morning Consult,1/21/24,31042,Robert F. Kennedy,10.0
+1631,85771,Morning Consult,1/21/24,31097,Cornel West,0.0
+1632,85771,Morning Consult,1/21/24,31116,Jill Stein,2.0
+1633,85771,Morning Consult,1/21/24,19368,Joe Biden,44.0
+1634,85771,Morning Consult,1/21/24,16651,Donald Trump,49.0
+1635,85694,Susquehanna,1/21/24,19368,Joe Biden,46.8
+1636,85694,Susquehanna,1/21/24,16651,Donald Trump,39.3
+1637,85679,Morning Consult,1/20/24,19368,Joe Biden,41.0
+1638,85679,Morning Consult,1/20/24,16651,Donald Trump,44.0
+1639,85680,Morning Consult,1/19/24,19368,Joe Biden,42.0
+1640,85680,Morning Consult,1/19/24,16651,Donald Trump,43.0
+1641,85656,Redfield & Wilton Strategies,1/18/24,19368,Joe Biden,41.0
+1642,85656,Redfield & Wilton Strategies,1/18/24,16651,Donald Trump,42.0
+1643,85672,HarrisX/Harris Poll,1/18/24,19368,Joe Biden,47.0
+1644,85672,HarrisX/Harris Poll,1/18/24,16651,Donald Trump,53.0
+1645,85672,HarrisX/Harris Poll,1/18/24,19368,Joe Biden,36.0
+1646,85672,HarrisX/Harris Poll,1/18/24,16651,Donald Trump,44.0
+1647,85672,HarrisX/Harris Poll,1/18/24,31042,Robert F. Kennedy,21.0
+1648,85672,HarrisX/Harris Poll,1/18/24,19368,Joe Biden,33.0
+1649,85672,HarrisX/Harris Poll,1/18/24,16651,Donald Trump,44.0
+1650,85672,HarrisX/Harris Poll,1/18/24,31042,Robert F. Kennedy,18.0
+1651,85672,HarrisX/Harris Poll,1/18/24,31097,Cornel West,3.0
+1652,85672,HarrisX/Harris Poll,1/18/24,31116,Jill Stein,2.0
+1653,85672,HarrisX/Harris Poll,1/18/24,19368,Joe Biden,43.0
+1654,85672,HarrisX/Harris Poll,1/18/24,16646,Ron DeSantis,42.0
+1655,85672,HarrisX/Harris Poll,1/18/24,19368,Joe Biden,38.0
+1656,85672,HarrisX/Harris Poll,1/18/24,16640,Nikki Haley,41.0
+1657,85676,Echelon Insights,1/18/24,19368,Joe Biden,46.0
+1658,85676,Echelon Insights,1/18/24,16651,Donald Trump,47.0
+1659,85676,Echelon Insights,1/18/24,19368,Joe Biden,40.0
+1660,85676,Echelon Insights,1/18/24,16640,Nikki Haley,45.0
+1661,85676,Echelon Insights,1/18/24,19368,Joe Biden,35.0
+1662,85676,Echelon Insights,1/18/24,16651,Donald Trump,41.0
+1663,85676,Echelon Insights,1/18/24,31042,Robert F. Kennedy,11.0
+1664,85676,Echelon Insights,1/18/24,31018,"Joe Manchin, III",3.0
+1665,85676,Echelon Insights,1/18/24,31116,Jill Stein,2.0
+1666,85676,Echelon Insights,1/18/24,31097,Cornel West,2.0
+1667,85681,Morning Consult,1/18/24,19368,Joe Biden,42.0
+1668,85681,Morning Consult,1/18/24,16651,Donald Trump,43.0
+1669,85644,HarrisX,1/17/24,19368,Joe Biden,48.0
+1670,85644,HarrisX,1/17/24,16651,Donald Trump,52.0
+1671,85644,HarrisX,1/17/24,19368,Joe Biden,40.0
+1672,85644,HarrisX,1/17/24,16651,Donald Trump,43.0
+1673,85644,HarrisX,1/17/24,31042,Robert F. Kennedy,12.0
+1674,85644,HarrisX,1/17/24,31097,Cornel West,2.0
+1675,85644,HarrisX,1/17/24,31116,Jill Stein,2.0
+1676,85655,Marist,1/17/24,19368,Joe Biden,52.0
+1677,85655,Marist,1/17/24,16651,Donald Trump,45.0
+1678,85655,Marist,1/17/24,19368,Joe Biden,44.0
+1679,85655,Marist,1/17/24,16651,Donald Trump,41.0
+1680,85655,Marist,1/17/24,31042,Robert F. Kennedy,12.0
+1681,85655,Marist,1/17/24,19368,Joe Biden,44.0
+1682,85655,Marist,1/17/24,16640,Nikki Haley,47.0
+1683,85655,Marist,1/17/24,19368,Joe Biden,51.0
+1684,85655,Marist,1/17/24,16646,Ron DeSantis,42.0
+1685,85682,Morning Consult,1/17/24,19368,Joe Biden,42.0
+1686,85682,Morning Consult,1/17/24,16651,Donald Trump,43.0
+1687,85667,Siena,1/17/24,19368,Joe Biden,46.0
+1688,85667,Siena,1/17/24,16651,Donald Trump,37.0
+1689,85667,Siena,1/17/24,19368,Joe Biden,41.0
+1690,85667,Siena,1/17/24,16651,Donald Trump,32.0
+1691,85667,Siena,1/17/24,31042,Robert F. Kennedy,13.0
+1692,85667,Siena,1/17/24,31097,Cornel West,3.0
+1693,85626,YouGov,1/16/24,19368,Joe Biden,44.0
+1694,85626,YouGov,1/16/24,16651,Donald Trump,43.0
+1695,85683,Morning Consult,1/16/24,19368,Joe Biden,41.0
+1696,85683,Morning Consult,1/16/24,16651,Donald Trump,43.0
+1697,85631,Morning Consult,1/15/24,19368,Joe Biden,41.0
+1698,85631,Morning Consult,1/15/24,16651,Donald Trump,43.0
+1699,85646,Emerson,1/15/24,19368,Joe Biden,40.9
+1700,85646,Emerson,1/15/24,16651,Donald Trump,48.7
+1701,85646,Emerson,1/15/24,19368,Joe Biden,36.1
+1702,85646,Emerson,1/15/24,16651,Donald Trump,45.7
+1703,85646,Emerson,1/15/24,31042,Robert F. Kennedy,4.6
+1704,85646,Emerson,1/15/24,31097,Cornel West,1.0
+1705,85646,Emerson,1/15/24,31116,Jill Stein,0.9
+1706,85638,Morning Consult,1/14/24,19368,Joe Biden,41.0
+1707,85638,Morning Consult,1/14/24,16651,Donald Trump,44.0
+1708,85648,Emerson,1/14/24,19368,Joe Biden,54.4
+1709,85648,Emerson,1/14/24,16651,Donald Trump,33.7
+1710,85648,Emerson,1/14/24,19368,Joe Biden,46.5
+1711,85648,Emerson,1/14/24,16651,Donald Trump,31.7
+1712,85648,Emerson,1/14/24,31042,Robert F. Kennedy,5.9
+1713,85648,Emerson,1/14/24,31116,Jill Stein,0.7
+1714,85648,Emerson,1/14/24,31097,Cornel West,1.2
+1715,85637,Morning Consult,1/13/24,19368,Joe Biden,41.0
+1716,85637,Morning Consult,1/13/24,16651,Donald Trump,44.0

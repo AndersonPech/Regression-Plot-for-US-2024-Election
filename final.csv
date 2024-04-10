@@ -1,0 +1,528 @@
+,id,biden,trump,kennedy,pollster,end_date
+0,85626,44.0,43.0,,YouGov,1/16/24
+1,85631,41.0,43.0,,Morning Consult,1/15/24
+2,85637,41.0,44.0,,Morning Consult,1/13/24
+3,85638,41.0,44.0,,Morning Consult,1/14/24
+4,85644,48.0,52.0,,HarrisX,1/17/24
+5,85644,40.0,43.0,12.0,HarrisX,1/17/24
+6,85646,40.9,48.7,,Emerson,1/15/24
+7,85646,36.1,45.7,4.6,Emerson,1/15/24
+8,85648,54.4,33.7,,Emerson,1/14/24
+9,85648,46.5,31.7,5.9,Emerson,1/14/24
+10,85655,52.0,45.0,,Marist,1/17/24
+11,85655,44.0,41.0,12.0,Marist,1/17/24
+12,85656,41.0,42.0,,Redfield & Wilton Strategies,1/18/24
+13,85667,46.0,37.0,,Siena,1/17/24
+14,85667,41.0,32.0,13.0,Siena,1/17/24
+15,85672,47.0,53.0,,HarrisX/Harris Poll,1/18/24
+16,85672,36.0,44.0,21.0,HarrisX/Harris Poll,1/18/24
+17,85672,33.0,44.0,18.0,HarrisX/Harris Poll,1/18/24
+18,85676,46.0,47.0,,Echelon Insights,1/18/24
+19,85676,35.0,41.0,11.0,Echelon Insights,1/18/24
+20,85678,40.0,45.0,,Morning Consult,1/21/24
+21,85679,41.0,44.0,,Morning Consult,1/20/24
+22,85680,42.0,43.0,,Morning Consult,1/19/24
+23,85681,42.0,43.0,,Morning Consult,1/18/24
+24,85682,42.0,43.0,,Morning Consult,1/17/24
+25,85683,41.0,43.0,,Morning Consult,1/16/24
+26,85689,42.0,47.0,,Bullfinch,1/22/24
+27,85694,46.8,39.3,,Susquehanna,1/21/24
+28,85699,43.0,44.0,,YouGov,1/23/24
+29,85700,41.0,48.0,,HarrisX,1/21/24
+30,85700,33.0,42.0,12.0,HarrisX,1/21/24
+31,85702,34.0,40.0,,Ipsos,1/24/24
+32,85702,30.0,36.0,8.0,Ipsos,1/24/24
+33,85702,38.0,43.0,,Ipsos,1/24/24
+34,85702,34.0,39.0,8.0,Ipsos,1/24/24
+35,85726,42.0,44.0,,Morning Consult,1/28/24
+36,85727,41.0,44.0,,Morning Consult,1/27/24
+37,85728,42.0,44.0,,Morning Consult,1/26/24
+38,85729,42.0,44.0,,Morning Consult,1/25/24
+39,85730,42.0,45.0,,Morning Consult,1/24/24
+40,85731,40.0,45.0,,Morning Consult,1/23/24
+41,85732,40.0,45.0,,Morning Consult,1/22/24
+42,85736,40.0,52.0,,YouGov,1/24/24
+43,85742,44.6,45.5,,Emerson,1/29/24
+44,85742,39.2,41.1,4.9,Emerson,1/29/24
+45,85742,36.9,41.7,,Emerson,1/29/24
+46,85751,33.0,43.0,,Dan Jones,1/21/24
+47,85761,44.0,45.0,,YouGov,1/29/24
+48,85761,41.0,42.0,,YouGov,1/29/24
+49,85762,36.0,37.0,,Leger,1/28/24
+50,85765,35.0,43.0,10.0,Morning Consult,1/21/24
+51,85765,44.0,47.0,,Morning Consult,1/21/24
+52,85766,37.0,44.0,8.0,Morning Consult,1/21/24
+53,85766,41.0,49.0,,Morning Consult,1/21/24
+54,85767,37.0,43.0,8.0,Morning Consult,1/21/24
+55,85767,42.0,47.0,,Morning Consult,1/21/24
+56,85768,31.0,43.0,12.0,Morning Consult,1/21/24
+57,85768,40.0,48.0,,Morning Consult,1/21/24
+58,85769,32.0,45.0,9.0,Morning Consult,1/21/24
+59,85769,39.0,49.0,,Morning Consult,1/21/24
+60,85770,40.0,43.0,7.0,Morning Consult,1/21/24
+61,85770,45.0,48.0,,Morning Consult,1/21/24
+62,85771,35.0,43.0,10.0,Morning Consult,1/21/24
+63,85771,44.0,49.0,,Morning Consult,1/21/24
+64,85772,43.0,42.0,,YouGov,1/30/24
+65,85779,50.0,44.0,,Quinnipiac,1/29/24
+66,85779,39.0,37.0,14.0,Quinnipiac,1/29/24
+67,85781,44.0,44.0,,Civiqs,1/30/24
+68,85794,35.8,46.8,,Emerson,1/25/24
+69,85797,43.0,42.0,,Franklin and Marshall College,1/28/24
+70,85797,42.0,37.0,8.0,Franklin and Marshall College,1/28/24
+71,85798,42.0,39.0,,SurveyUSA,1/29/24
+72,85801,53.0,25.0,7.0,USC Dornsife/CSU Long Beach/Cal Poly Pomona,1/29/24
+73,85818,43.0,47.0,,Clarity,1/23/24
+74,85825,31.9,49.4,,Emerson,1/28/24
+75,85826,45.0,49.0,,SSRS,1/30/24
+76,85827,39.0,42.0,7.0,Beacon/Shaw,1/30/24
+77,85827,47.0,47.0,,Beacon/Shaw,1/30/24
+78,85828,37.0,45.0,8.0,Beacon/Shaw,1/30/24
+79,85828,43.0,51.0,,Beacon/Shaw,1/30/24
+80,85829,41.0,35.0,,Emerson,1/28/24
+81,85830,26.4,55.3,,Emerson,1/28/24
+82,85834,41.0,45.0,,J.L. Partners,2/1/24
+83,85835,43.0,50.0,,McLaughlin,1/31/24
+84,85835,34.0,39.0,9.0,McLaughlin,1/31/24
+85,85837,44.0,45.0,,YouGov,1/30/24
+86,85839,42.0,47.0,1.0,Hart/POS,1/30/24
+87,85842,39.0,43.0,9.0,YouGov,1/30/24
+88,85843,39.0,44.0,,Meredith College,1/31/24
+89,85846,33.7,36.3,9.8,Big Village,1/28/24
+90,85846,38.1,37.6,10.4,Big Village,1/28/24
+91,85846,41.5,38.8,10.0,Big Village,1/28/24
+92,85859,43.0,44.0,,YouGov,2/6/24
+93,85861,48.0,47.0,,Marist,2/1/24
+94,85862,45.4,25.5,8.6,Suffolk,2/5/24
+95,85864,41.0,43.0,,TIPP,2/2/24
+96,85864,34.0,40.0,8.0,TIPP,2/2/24
+97,85865,35.0,44.0,6.0,Redfield & Wilton Strategies,2/3/24
+98,85890,44.0,49.0,,SurveyUSA,2/2/24
+99,85890,40.0,45.0,,SurveyUSA,2/2/24
+100,85890,36.0,43.0,9.0,SurveyUSA,2/2/24
+101,85890,36.0,41.0,10.0,SurveyUSA,2/2/24
+102,85891,49.0,49.0,,Marquette Law School,1/31/24
+103,85891,49.0,50.0,,Marquette Law School,1/31/24
+104,85891,37.0,40.0,16.0,Marquette Law School,1/31/24
+105,85891,39.0,41.0,13.0,Marquette Law School,1/31/24
+106,85892,49.0,41.0,,Global Strategy Group,1/28/24
+107,85895,40.0,45.0,,Morning Consult,2/6/24
+108,85896,41.0,44.0,,Morning Consult,2/5/24
+109,85897,41.0,44.0,,Morning Consult,2/4/24
+110,85898,41.0,44.0,,Morning Consult,2/3/24
+111,85899,42.0,44.0,,Morning Consult,2/2/24
+112,85900,41.0,45.0,,Morning Consult,2/1/24
+113,85901,41.0,45.0,,Morning Consult,1/31/24
+114,85902,41.0,45.0,,Morning Consult,1/30/24
+115,85903,42.0,44.0,,Morning Consult,1/29/24
+116,85907,32.0,39.0,16.0,North Star Opinion Research,2/4/24
+117,85911,37.1,41.2,,Florida Atlantic University/Mainstreet Research,2/3/24
+118,85911,40.5,44.5,,Florida Atlantic University/Mainstreet Research,2/3/24
+119,85913,44.0,45.0,,YouGov,2/9/24
+120,85914,32.0,40.0,,Chism Strategies,2/8/24
+121,85918,42.3,43.9,5.2,AtlasIntel,2/7/24
+122,85918,41.0,39.0,5.1,AtlasIntel,2/7/24
+123,85921,42.0,43.0,,Morning Consult,2/11/24
+124,85922,42.0,44.0,,Morning Consult,2/10/24
+125,85923,41.0,44.0,,Morning Consult,2/9/24
+126,85924,41.0,45.0,,Morning Consult,2/8/24
+127,85925,40.0,46.0,,Morning Consult,2/7/24
+128,85930,34.0,37.0,,Ipsos,2/12/24
+129,85933,45.8,47.5,,Patriot Polling,2/10/24
+130,85936,34.3,51.6,,Florida Atlantic University/Mainstreet Research,2/8/24
+131,85936,35.9,53.6,,Florida Atlantic University/Mainstreet Research,2/8/24
+132,85938,44.0,44.0,,YouGov,2/13/24
+133,85939,35.0,50.0,,Winthrop U.,2/10/24
+134,85940,53.0,32.0,,Gonzales Research & Media Services,2/2/24
+135,85940,45.0,28.0,18.0,Gonzales Research & Media Services,2/2/24
+136,85960,45.0,47.0,,Beacon/Shaw,2/12/24
+137,85960,37.0,42.0,11.0,Beacon/Shaw,2/12/24
+138,85961,45.0,50.0,,Beacon/Shaw,2/12/24
+139,85961,37.0,46.0,8.0,Beacon/Shaw,2/12/24
+140,85962,54.6,32.0,,Emerson,2/13/24
+141,85962,46.6,31.4,5.9,Emerson,2/13/24
+142,85964,35.0,42.0,6.0,National Public Affairs,2/8/24
+143,85965,45.8,47.0,,Cygnal,2/8/24
+144,85965,39.1,40.8,13.0,Cygnal,2/8/24
+145,85966,41.0,42.0,8.0,Redfield & Wilton Strategies,2/10/24
+146,85968,29.0,51.0,,SurveyUSA,2/15/24
+147,85969,44.1,44.7,,Emerson,2/14/24
+148,85969,37.9,46.1,6.7,Emerson,2/14/24
+149,85971,43.4,46.5,1.5,East Carolina University,2/12/24
+150,85973,54.0,38.0,,PPP,2/14/24
+151,85994,35.0,54.0,,The Citadel,2/11/24
+152,85994,32.0,49.0,9.0,The Citadel,2/11/24
+153,86059,45.0,49.0,,Echelon Insights,2/14/24
+154,86059,37.0,42.0,8.0,Echelon Insights,2/14/24
+155,86060,40.0,49.2,,Cygnal,2/13/24
+156,86061,40.0,40.0,,Lord Ashcroft Polls,1/28/24
+157,86061,35.0,39.0,,Lord Ashcroft Polls,1/28/24
+158,86065,36.0,45.0,6.0,YouGov,2/12/24
+159,86065,41.0,48.0,,YouGov,2/12/24
+160,86066,36.7,50.6,,Emerson,2/16/24
+161,86067,42.9,45.1,,Emerson,2/16/24
+162,86067,36.8,48.4,7.6,Emerson,2/16/24
+163,86068,55.3,32.6,,Emerson,2/18/24
+164,86068,48.9,30.7,7.7,Emerson,2/18/24
+165,86069,48.0,36.0,,Siena,2/14/24
+166,86069,42.0,32.0,13.0,Siena,2/14/24
+167,86126,41.0,47.0,,Rasmussen,2/15/24
+168,86126,37.0,43.0,12.0,Rasmussen,2/15/24
+169,86127,46.0,54.0,,HarrisX,2/16/24
+170,86127,36.0,44.0,15.0,HarrisX,2/16/24
+171,86129,41.0,45.0,,Morning Consult,2/19/24
+172,86130,42.0,45.0,,Morning Consult,2/18/24
+173,86131,42.0,45.0,,Morning Consult,2/17/24
+174,86132,41.0,44.0,,Morning Consult,2/15/24
+175,86133,42.0,44.0,,Morning Consult,2/14/24
+176,86134,42.0,44.0,,Morning Consult,2/13/24
+177,86135,42.0,44.0,,Morning Consult,2/12/24
+178,86136,42.0,45.0,,Morning Consult,2/16/24
+179,86140,41.0,45.0,,EPIC/MRA,2/18/24
+180,86141,43.7,46.6,,Emerson,2/16/24
+181,86141,36.7,49.2,4.9,Emerson,2/16/24
+182,86143,41.6,47.9,,Emerson,2/16/24
+183,86143,36.2,50.5,5.9,Emerson,2/16/24
+184,86144,37.0,41.0,,Kaiser Family Foundation,2/7/24
+185,86145,42.0,43.0,,YouGov,2/20/24
+186,86147,49.0,45.0,,Quinnipiac,2/19/24
+187,86147,38.0,37.0,15.0,Quinnipiac,2/19/24
+188,86148,49.0,51.0,,Marquette Law School,2/15/24
+189,86148,48.0,52.0,,Marquette Law School,2/15/24
+190,86148,39.0,42.0,15.0,Marquette Law School,2/15/24
+191,86148,40.0,43.0,14.0,Marquette Law School,2/15/24
+192,86161,42.0,44.0,,YouGov,2/4/24
+193,86163,40.0,47.0,,Change Research,2/8/24
+194,86163,33.0,41.0,,Change Research,2/8/24
+195,86164,40.2,46.0,,Emerson,2/19/24
+196,86164,34.3,49.0,6.2,Emerson,2/19/24
+197,86165,42.5,45.6,,Emerson,2/19/24
+198,86165,37.1,47.3,7.5,Emerson,2/19/24
+199,86174,55.0,32.0,,PPIC,2/13/24
+200,86176,48.0,52.0,,HarrisX,2/23/24
+201,86176,40.0,42.0,14.0,HarrisX,2/23/24
+202,86178,42.0,44.0,,Morning Consult,2/4/24
+203,86180,37.0,41.0,,Bullfinch,2/22/24
+204,86180,38.0,41.0,,Bullfinch,2/22/24
+205,86181,44.0,46.0,,Emerson,2/24/24
+206,86181,38.7,42.4,5.8,Emerson,2/24/24
+207,86186,42.0,48.0,,Public Opinion Strategies,1/25/24
+208,86187,32.0,38.0,,Pan Atlantic Research,2/14/24
+209,86188,39.0,31.0,,Pan Atlantic Research,2/14/24
+210,86189,25.0,45.0,,Pan Atlantic Research,2/14/24
+211,86190,47.0,53.0,,HarrisX/Harris Poll,2/22/24
+212,86190,37.0,44.0,18.0,HarrisX/Harris Poll,2/22/24
+213,86190,36.0,44.0,17.0,HarrisX/Harris Poll,2/22/24
+214,86191,39.0,41.0,,Kaplan Strategies,2/23/24
+215,86192,43.0,43.0,,North Star Opinion Research,2/25/24
+216,86193,36.0,46.0,,Kaplan Strategies,2/23/24
+217,86194,42.4,45.2,,Emerson,2/24/24
+218,86194,37.1,44.7,6.9,Emerson,2/24/24
+219,86195,43.0,44.0,,Morning Consult,2/25/24
+220,86196,43.0,44.0,,Morning Consult,2/24/24
+221,86197,42.0,43.0,,Morning Consult,2/23/24
+222,86198,42.0,42.0,,Morning Consult,2/22/24
+223,86199,41.0,43.0,,Morning Consult,2/21/24
+224,86200,41.0,44.0,,Morning Consult,2/20/24
+225,86215,44.0,44.0,,YouGov,2/27/24
+226,86217,36.0,39.0,,Leger,2/25/24
+227,86217,42.0,45.0,,Leger,2/25/24
+228,86220,40.0,47.0,,Rasmussen,2/26/24
+229,86224,43.7,45.9,,McLaughlin,2/22/24
+230,86224,45.7,47.1,,McLaughlin,2/22/24
+231,86224,34.7,38.8,10.9,McLaughlin,2/22/24
+232,86224,37.1,40.9,10.4,McLaughlin,2/22/24
+233,86225,46.9,53.1,,ActiVote,2/26/24
+234,86229,56.5,35.1,,Emerson,2/27/24
+235,86229,50.8,31.5,6.4,Emerson,2/27/24
+236,86230,36.0,45.0,9.0,Morning Consult,2/18/24
+237,86230,43.0,49.0,,Morning Consult,2/18/24
+238,86231,38.0,45.0,6.0,Morning Consult,2/18/24
+239,86231,43.0,49.0,,Morning Consult,2/18/24
+240,86232,40.0,41.0,9.0,Morning Consult,2/18/24
+241,86232,44.0,46.0,,Morning Consult,2/18/24
+242,86233,37.0,44.0,9.0,Morning Consult,2/18/24
+243,86233,42.0,48.0,,Morning Consult,2/18/24
+244,86234,35.0,45.0,9.0,Morning Consult,2/18/24
+245,86234,41.0,50.0,,Morning Consult,2/18/24
+246,86235,36.0,45.0,8.0,Morning Consult,2/18/24
+247,86235,43.0,49.0,,Morning Consult,2/18/24
+248,86236,35.0,41.0,10.0,Morning Consult,2/18/24
+249,86236,42.0,46.0,,Morning Consult,2/18/24
+250,86238,42.0,46.0,,University of Texas at Tyler,2/26/24
+251,86238,37.0,41.0,13.0,University of Texas at Tyler,2/26/24
+252,86240,40.0,28.0,11.0,UC Berkeley,2/26/24
+253,86240,52.0,34.0,,UC Berkeley,2/26/24
+254,86241,47.0,43.0,,Roanoke College,2/19/24
+255,86244,48.0,52.0,,HarrisX,2/28/24
+256,86244,38.0,43.0,14.0,HarrisX,2/28/24
+257,86245,41.0,43.0,,Focaldata,1/23/24
+258,86245,50.6,49.4,,Focaldata,1/23/24
+259,86246,38.0,43.0,,Focaldata,1/23/24
+260,86246,49.3,50.7,,Focaldata,1/23/24
+261,86247,36.0,45.0,,Focaldata,1/23/24
+262,86247,48.3,51.7,,Focaldata,1/23/24
+263,86248,38.0,46.0,,Focaldata,1/23/24
+264,86248,48.6,51.4,,Focaldata,1/23/24
+265,86249,39.0,43.0,,Focaldata,1/23/24
+266,86249,49.6,50.4,,Focaldata,1/23/24
+267,86250,40.0,43.0,,Focaldata,1/23/24
+268,86250,49.0,51.0,,Focaldata,1/23/24
+269,86252,36.0,36.0,,Ipsos,2/28/24
+270,86253,43.0,48.0,,Siena/NYT,2/28/24
+271,86253,44.0,48.0,,Siena/NYT,2/28/24
+272,86253,37.0,48.0,,Siena/NYT,2/28/24
+273,86255,35.0,40.0,9.0,Fabrizio/GBAO,2/28/24
+274,86255,45.0,47.0,,Fabrizio/GBAO,2/28/24
+275,86256,38.0,41.0,13.0,Beacon/Shaw,2/28/24
+276,86256,47.0,49.0,,Beacon/Shaw,2/28/24
+277,86258,48.0,52.0,,YouGov,3/1/24
+278,86262,43.0,42.0,,TIPP,3/1/24
+279,86262,38.0,38.0,9.0,TIPP,3/1/24
+280,86264,44.0,43.0,,Morning Consult,3/3/24
+281,86266,42.0,38.0,,SurveyUSA,2/28/24
+282,86267,43.0,44.0,,Morning Consult,3/2/24
+283,86268,42.0,44.0,,Morning Consult,3/1/24
+284,86269,42.0,44.0,,Morning Consult,2/29/24
+285,86270,42.0,44.0,,Morning Consult,2/28/24
+286,86271,42.0,44.0,,Morning Consult,2/27/24
+287,86272,43.0,44.0,,Morning Consult,2/26/24
+288,86274,40.0,39.0,8.0,Axis Research,2/27/24
+289,86275,33.0,48.0,,Selzer,2/28/24
+290,86276,35.0,33.0,,Ipsos,2/7/24
+291,86296,35.0,55.6,,Emerson,3/2/24
+292,86296,28.3,48.5,8.2,Emerson,3/2/24
+293,86297,42.0,44.0,,YouGov,3/5/24
+294,86299,42.0,45.0,,Clarity,2/27/24
+295,86300,47.0,44.0,,Kaiser Family Foundation,2/28/24
+296,86301,33.6,54.8,,Emerson,3/5/24
+297,86302,51.0,49.0,,Emerson,3/6/24
+298,86302,41.5,43.2,6.0,Emerson,3/6/24
+299,86304,36.5,55.7,,Florida Atlantic University/Mainstreet Research,3/3/24
+300,86304,37.8,57.4,,Florida Atlantic University/Mainstreet Research,3/3/24
+301,86305,54.4,36.3,,Florida Atlantic University/Mainstreet Research,3/3/24
+302,86305,56.3,37.4,,Florida Atlantic University/Mainstreet Research,3/3/24
+303,86306,47.6,42.6,,Florida Atlantic University/Mainstreet Research,3/3/24
+304,86306,48.3,44.1,,Florida Atlantic University/Mainstreet Research,3/3/24
+305,86307,57.8,33.5,,Florida Atlantic University/Mainstreet Research,3/3/24
+306,86307,58.8,33.7,,Florida Atlantic University/Mainstreet Research,3/3/24
+307,86308,40.1,52.0,,Florida Atlantic University/Mainstreet Research,3/3/24
+308,86308,40.2,53.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+309,86309,34.2,58.4,,Florida Atlantic University/Mainstreet Research,3/3/24
+310,86309,34.4,58.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+311,86310,41.5,49.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+312,86310,42.3,50.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+313,86311,46.9,41.8,,Florida Atlantic University/Mainstreet Research,3/3/24
+314,86311,48.6,42.4,,Florida Atlantic University/Mainstreet Research,3/3/24
+315,86312,45.3,45.8,,GS Strategy Group,3/1/24
+316,86312,33.0,35.0,13.0,GS Strategy Group,3/1/24
+317,86313,46.3,38.7,,Florida Atlantic University/Mainstreet Research,3/3/24
+318,86313,46.3,38.7,,Florida Atlantic University/Mainstreet Research,3/3/24
+319,86314,37.0,46.3,,Florida Atlantic University/Mainstreet Research,3/3/24
+320,86314,38.2,45.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+321,86315,58.2,27.9,,Florida Atlantic University/Mainstreet Research,3/3/24
+322,86315,59.3,28.4,,Florida Atlantic University/Mainstreet Research,3/3/24
+323,86316,41.0,53.0,,Data for Progress,3/2/24
+324,86316,41.0,53.0,,Data for Progress,3/2/24
+325,86319,39.0,43.0,9.0,Redfield & Wilton Strategies,3/2/24
+326,86326,43.0,44.0,,Morning Consult,3/10/24
+327,86328,48.0,52.0,,Emerson,3/7/24
+328,86328,37.1,44.2,5.4,Emerson,3/7/24
+329,86329,45.0,50.0,,SurveyUSA,3/9/24
+330,86330,44.0,43.0,,Morning Consult,3/9/24
+331,86331,43.0,44.0,,Morning Consult,3/8/24
+332,86332,43.0,43.0,,Morning Consult,3/7/24
+333,86333,42.0,44.0,,Morning Consult,3/6/24
+334,86334,43.0,43.0,,Morning Consult,3/5/24
+335,86335,44.0,43.0,,Morning Consult,3/4/24
+336,86336,44.0,43.0,,Morning Consult,3/3/24
+337,86352,39.8,45.2,,Cygnal,3/7/24
+338,86353,48.0,52.0,,HarrisX,3/10/24
+339,86353,38.0,44.0,15.0,HarrisX,3/10/24
+340,86457,48.0,51.0,,YouGov,3/11/24
+341,86459,44.0,46.0,,YouGov,3/11/24
+342,86459,41.0,43.0,,YouGov,3/11/24
+343,86460,37.5,40.0,8.7,Suffolk,3/11/24
+344,86461,44.6,55.4,,Emerson,3/10/24
+345,86461,38.0,47.1,5.7,Emerson,3/10/24
+346,86463,42.0,44.0,,YouGov,3/12/24
+347,86464,32.8,36.3,9.0,Big Village,3/13/24
+348,86464,36.8,39.1,8.6,Big Village,3/13/24
+349,86464,39.5,40.9,8.5,Big Village,3/13/24
+350,86465,45.0,44.0,,Civiqs,3/12/24
+351,86466,47.0,49.0,,Beacon/Shaw,3/11/24
+352,86466,42.0,42.0,9.0,Beacon/Shaw,3/11/24
+353,86467,45.0,49.0,,Beacon/Shaw,3/11/24
+354,86467,39.0,43.0,10.0,Beacon/Shaw,3/11/24
+355,86468,40.0,45.0,,Noble Predictive Insights,3/5/24
+356,86468,33.0,40.0,11.0,Noble Predictive Insights,3/5/24
+357,86469,38.0,50.0,,SurveyUSA,3/11/24
+358,86469,32.0,51.0,13.0,SurveyUSA,3/11/24
+359,86470,48.2,51.8,,Emerson,3/13/24
+360,86470,40.2,43.7,5.4,Emerson,3/13/24
+361,86471,50.0,48.0,,Ipsos,3/13/24
+362,86471,34.0,36.0,,Ipsos,3/13/24
+363,86471,43.0,38.0,12.0,Ipsos,3/13/24
+364,86471,31.0,32.0,16.0,Ipsos,3/13/24
+365,86472,45.0,48.0,,Quinnipiac,3/12/24
+366,86472,36.0,41.0,10.0,Quinnipiac,3/12/24
+367,86474,37.6,48.1,4.6,East Carolina University,3/11/24
+368,86477,41.7,47.5,,St. Pete Polls,3/13/24
+369,86478,39.5,50.4,,Florida Atlantic University/Mainstreet Research,3/13/24
+370,86478,40.4,51.0,,Florida Atlantic University/Mainstreet Research,3/13/24
+371,86479,46.0,45.0,,PPP,3/13/24
+372,86481,43.0,50.0,,McLaughlin,3/14/24
+373,86481,34.0,38.0,12.0,McLaughlin,3/14/24
+374,86482,43.0,43.0,,Morning Consult,3/17/24
+375,86483,43.0,43.0,,Morning Consult,3/16/24
+376,86484,43.0,43.0,,Morning Consult,3/15/24
+377,86485,43.0,43.0,,Morning Consult,3/14/24
+378,86486,44.0,42.0,,Morning Consult,3/13/24
+379,86487,44.0,43.0,,Morning Consult,3/12/24
+380,86488,44.0,43.0,,Morning Consult,3/11/24
+381,86491,44.4,44.1,,Florida Atlantic University/Mainstreet Research,3/17/24
+382,86491,47.1,44.6,,Florida Atlantic University/Mainstreet Research,3/17/24
+383,86492,42.0,46.0,,North Star Opinion Research,3/17/24
+384,86492,33.0,37.0,18.0,North Star Opinion Research,3/17/24
+385,86493,38.0,45.0,,Selzer,3/17/24
+386,86494,47.0,51.0,,Marist,3/14/24
+387,86494,40.0,45.0,14.0,Marist,3/14/24
+388,86495,48.0,51.0,,Marist,3/14/24
+389,86495,43.0,46.0,11.0,Marist,3/14/24
+390,86496,47.7,52.3,,Emerson,3/15/24
+391,86496,37.9,45.8,6.5,Emerson,3/15/24
+392,86497,48.7,51.3,,Emerson,3/15/24
+393,86497,36.0,41.0,8.8,Emerson,3/15/24
+394,86498,44.0,43.0,2.0,YouGov,3/19/24
+395,86500,45.0,46.0,,Noble Predictive Insights,3/15/24
+396,86500,40.0,43.0,7.0,Noble Predictive Insights,3/15/24
+397,86500,44.0,43.0,,Noble Predictive Insights,3/15/24
+398,86500,38.0,41.0,8.0,Noble Predictive Insights,3/15/24
+399,86502,49.7,50.3,,Emerson,3/18/24
+400,86502,40.6,44.6,4.6,Emerson,3/18/24
+401,86503,48.2,51.8,,Emerson,3/18/24
+402,86503,39.6,43.4,5.9,Emerson,3/18/24
+403,86509,42.0,50.0,,SSRS,3/18/24
+404,86509,34.0,40.0,18.0,SSRS,3/18/24
+405,86510,46.0,46.0,,SSRS,3/18/24
+406,86510,38.0,40.0,16.0,SSRS,3/18/24
+407,86511,44.0,47.0,,Mitchell,3/16/24
+408,86511,42.0,44.0,6.0,Mitchell,3/16/24
+409,86521,41.0,45.0,,Redfield & Wilton Strategies,3/15/24
+410,86521,40.0,44.0,7.0,Redfield & Wilton Strategies,3/15/24
+411,86522,47.3,52.7,,ActiVote,3/22/24
+412,86527,49.0,51.0,,HarrisX/Harris Poll,3/21/24
+413,86527,39.0,43.0,17.0,HarrisX/Harris Poll,3/21/24
+414,86527,38.0,43.0,15.0,HarrisX/Harris Poll,3/21/24
+415,86528,41.0,44.0,7.0,Redfield & Wilton Strategies,3/17/24
+416,86529,39.0,46.0,7.0,Redfield & Wilton Strategies,3/17/24
+417,86530,41.0,44.0,6.0,Redfield & Wilton Strategies,3/17/24
+418,86531,39.0,41.0,6.0,Redfield & Wilton Strategies,3/17/24
+419,86532,39.0,43.0,8.0,Redfield & Wilton Strategies,3/17/24
+420,86533,41.0,44.0,7.0,Redfield & Wilton Strategies,3/17/24
+421,86534,50.0,45.0,,Susquehanna,3/6/24
+422,86535,44.0,43.0,,Morning Consult,3/24/24
+423,86536,44.0,43.0,,Morning Consult,3/23/24
+424,86537,44.0,43.0,,Morning Consult,3/22/24
+425,86538,43.0,42.0,,Morning Consult,3/21/24
+426,86539,43.0,43.0,,Morning Consult,3/20/24
+427,86540,42.0,44.0,,Morning Consult,3/19/24
+428,86541,43.0,44.0,,Morning Consult,3/18/24
+429,86542,47.0,49.0,,Echelon Insights,3/21/24
+430,86542,40.0,43.0,10.0,Echelon Insights,3/21/24
+431,86544,44.0,55.0,,Marist,3/21/24
+432,86544,36.0,48.0,15.0,Marist,3/21/24
+433,86545,37.0,43.0,12.0,Morning Consult,3/14/24
+434,86545,43.0,48.0,,Morning Consult,3/14/24
+435,86546,38.0,45.0,7.0,Morning Consult,3/12/24
+436,86546,42.0,49.0,,Morning Consult,3/12/24
+437,86547,40.0,40.0,9.0,Morning Consult,3/12/24
+438,86547,45.0,45.0,,Morning Consult,3/12/24
+439,86548,36.0,42.0,11.0,Morning Consult,3/15/24
+440,86548,44.0,46.0,,Morning Consult,3/15/24
+441,86549,39.0,45.0,7.0,Morning Consult,3/12/24
+442,86549,43.0,49.0,,Morning Consult,3/12/24
+443,86550,38.0,44.0,7.0,Morning Consult,3/12/24
+444,86550,45.0,45.0,,Morning Consult,3/12/24
+445,86551,39.0,41.0,10.0,Morning Consult,3/14/24
+446,86551,46.0,45.0,,Morning Consult,3/14/24
+447,86552,45.0,46.0,,Hart/POS,3/19/24
+448,86558,43.0,44.0,3.0,YouGov,3/26/24
+449,86559,48.0,45.0,,Quinnipiac,3/25/24
+450,86559,38.0,39.0,13.0,Quinnipiac,3/25/24
+451,86560,38.0,43.0,12.0,Beacon/Shaw,3/25/24
+452,86560,45.0,51.0,,Beacon/Shaw,3/25/24
+453,86561,39.0,43.0,7.0,J.L. Partners,3/24/24
+454,86561,43.0,47.0,,J.L. Partners,3/24/24
+455,86562,50.0,50.0,,HarrisX,3/25/24
+456,86562,40.0,42.0,14.0,HarrisX,3/25/24
+457,86565,43.0,47.0,,Leger,3/25/24
+458,86565,37.0,41.0,,Leger,3/25/24
+459,86572,39.8,43.1,11.4,Trafalgar Group,3/31/24
+460,86574,44.0,42.0,,Morning Consult,3/31/24
+461,86576,45.7,39.4,,Emerson,3/29/24
+462,86576,41.0,35.8,7.5,Emerson,3/29/24
+463,86577,36.0,39.0,,RABA Research,3/31/24
+464,86580,46.0,50.0,,Clarity,3/27/24
+465,86581,33.5,34.9,8.4,Big Village,3/31/24
+466,86581,38.8,37.8,8.2,Big Village,3/31/24
+467,86581,41.9,39.7,7.8,Big Village,3/31/24
+468,86582,34.0,39.0,11.0,Fabrizio/GBAO,3/24/24
+469,86582,37.0,43.0,,Fabrizio/GBAO,3/24/24
+470,86582,42.0,47.0,,Fabrizio/GBAO,3/24/24
+471,86583,35.0,38.0,8.0,Fabrizio/GBAO,3/24/24
+472,86583,38.0,42.0,,Fabrizio/GBAO,3/24/24
+473,86583,43.0,44.0,,Fabrizio/GBAO,3/24/24
+474,86584,37.0,39.0,12.0,Fabrizio/GBAO,3/24/24
+475,86584,40.0,45.0,,Fabrizio/GBAO,3/24/24
+476,86584,45.0,48.0,,Fabrizio/GBAO,3/24/24
+477,86585,34.0,42.0,10.0,Fabrizio/GBAO,3/24/24
+478,86585,38.0,45.0,,Fabrizio/GBAO,3/24/24
+479,86585,43.0,49.0,,Fabrizio/GBAO,3/24/24
+480,86586,33.0,37.0,15.0,Fabrizio/GBAO,3/24/24
+481,86586,38.0,42.0,,Fabrizio/GBAO,3/24/24
+482,86586,44.0,48.0,,Fabrizio/GBAO,3/24/24
+483,86587,38.0,41.0,7.0,Fabrizio/GBAO,3/24/24
+484,86587,40.0,44.0,,Fabrizio/GBAO,3/24/24
+485,86587,44.0,47.0,,Fabrizio/GBAO,3/24/24
+486,86588,41.0,38.0,10.0,Fabrizio/GBAO,3/24/24
+487,86588,43.0,42.0,,Fabrizio/GBAO,3/24/24
+488,86588,46.0,46.0,,Fabrizio/GBAO,3/24/24
+489,86589,50.0,48.0,,Marist,3/28/24
+490,86589,43.0,41.0,11.0,Marist,3/28/24
+491,86590,47.0,46.0,,Data for Progress,3/29/24
+492,86590,41.0,42.0,8.0,Data for Progress,3/29/24
+493,86591,50.0,50.0,,Marquette Law School,3/28/24
+494,86591,52.0,48.0,,Marquette Law School,3/28/24
+495,86591,38.0,41.0,14.0,Marquette Law School,3/28/24
+496,86591,41.0,41.0,13.0,Marquette Law School,3/28/24
+497,86592,43.0,43.0,2.0,YouGov,4/2/24
+498,86593,44.0,43.0,,Morning Consult,3/30/24
+499,86594,43.0,44.0,,Morning Consult,3/29/24
+500,86595,44.0,44.0,,Morning Consult,3/26/24
+501,86596,44.0,43.0,,Morning Consult,3/25/24
+502,86597,43.0,44.0,,Morning Consult,3/27/24
+503,86598,43.0,44.0,,Morning Consult,3/28/24
+504,86601,49.0,39.0,,New Bridge Strategy/Aspect Strategic,3/19/24
+505,86602,49.4,50.6,,Emerson,4/3/24
+506,86602,42.0,43.2,7.8,Emerson,4/3/24
+507,86603,43.7,48.0,,Spry Strategies,3/28/24
+508,86603,39.8,43.0,8.8,Spry Strategies,3/28/24
+509,86604,48.0,38.0,,Franklin and Marshall College,3/31/24
+510,86604,42.0,40.0,9.0,Franklin and Marshall College,3/31/24
+511,86605,48.0,37.0,,Echelon Insights,3/21/24
+512,86607,44.9,46.5,,McLaughlin,3/26/24
+513,86607,37.4,39.5,9.8,McLaughlin,3/26/24
+514,86607,48.3,45.4,,McLaughlin,3/26/24
+515,86607,38.9,42.2,8.9,McLaughlin,3/26/24
+516,86612,43.0,40.0,,TIPP,4/5/24
+517,86612,38.0,38.0,11.0,TIPP,4/5/24
+518,86615,43.0,44.0,,Morning Consult,4/7/24
+519,86616,43.0,44.0,,Morning Consult,4/6/24
+520,86617,42.0,43.0,,Morning Consult,4/5/24
+521,86618,43.0,43.0,,Morning Consult,4/4/24
+522,86619,42.0,43.0,,Morning Consult,4/3/24
+523,86620,43.0,43.0,,Morning Consult,4/2/24
+524,86621,42.0,43.0,,Morning Consult,4/1/24
+525,86622,44.0,46.0,,UpOne Insights/Benenson Strategy Group,3/28/24
+526,86624,44.0,41.0,7.0,Bullfinch,3/26/24
